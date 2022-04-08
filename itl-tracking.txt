@@ -42,6 +42,7 @@ cdn.districtm.ca
 chicory.co
 choozle.com
 clearstream.tv
+click-eu.expmediadirect1.com
 clickagy.com
 cognitiv.ai
 cognitivemarketing.tid.es 
@@ -97,6 +98,7 @@ ipromote.com
 iqm.com
 iriscoremetadataprod.blob.core.windows.net
 jellyfish.com
+k0lj20jr.r.eu-central-1.awstrack.me
 kantar.com 
 kargo.com
 kbmg.com
@@ -192,6 +194,7 @@ sublime.xyz
 sunmedia.tv 
 survata.com 
 swoop.com
+syndication.exdynsrv.com
 t-uimserv-net.ha-cdn.de
 tabmo.io.s3.amazonaws.com
 taboola.com
