@@ -4073,6 +4073,8 @@ jakob-becker.de
 www.jakob-becker.de
 jakob-werkzeuge.de
 www.jakob-werkzeuge.de
+jamescfirm.com
+www.jamescfirm.com
 jameshardie.com
 www.jameshardie.com
 jandalogistics.com
@@ -4161,6 +4163,8 @@ jxgt.duckdns.org
 www.jxgt.duckdns.org
 jybaudot.fr
 www.jybaudot.fr
+k.lfl3.com
+www.k.lfl3.com
 k3.send.voyaro.co
 www.k3.send.voyaro.co
 k42.kb8c70eb.use4.send.mailgun.net
@@ -6661,6 +6665,8 @@ quiztoolbox.com
 www.quiztoolbox.com
 r.dci-medien.de
 www.r.dci-medien.de
+r405.com
+www.r405.com
 r68.info.wiley.com
 www.r68.info.wiley.com
 ra-gsklegal.de
