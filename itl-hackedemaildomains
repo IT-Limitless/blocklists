@@ -1,18 +1,21 @@
-################################################################
-## Falsche Domain gesperrt? Dann benachrichtige uns ueber:    ##
-## info (@) team.it-limitless.de                              ##
-## oder besuche unseren Blog auf blog.it-limitless.de         ##
-## oder wirke an den Blocklisten über GitHub mit:             ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## zuletzt ueberarbeitet am: 2026-09-05 23:11                   ##
-##                                                            ##
-## Having trouble? Message us at                              ##
-## info (@) team.it-limitless.de                              ##
-## or visit our blog at blog.it-limitless.de                  ##
-## or add/remove the domain at the corresponding blocklist at ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## edited at: 2026-09-05 23:11                                ##
-################################################################
+###########################################################################################
+## Zum Importieren der Listen, bitte nutze ausschließlich den Link im Format             ##
+## ITLurl.de/blocklists/listnamexyz anstatt des Direktlinks                              ##
+## Falsche Domain gesperrt? Dann benachrichtige uns ueber:                               ##
+## info (@) team.it-limitless.de                                                         ##
+## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
+## oder wirke an den Blocklisten über GitHub mit:                                        ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## zuletzt ueberarbeitet am: 2026-09-13 03:35                                            ##
+##                                                                                       ##
+## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
+## Having trouble? Message us at                                                         ##
+## info (@) team.it-limitless.de                                                         ##
+## or visit our blog at blog.it-limitless.de                                             ##
+## or add/remove the domain at the corresponding blocklist at                            ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## edited at: 2026-09-13 03:35                                                           ##
+###########################################################################################
 itl-hackedemaildomains.blocktest.it-limitless.de
  
 00fs6df.enence.net
@@ -8593,6 +8596,8 @@ waldstimmung.de
 www.waldstimmung.de
 wallek-geser.de
 www.wallek-geser.de
+walshp.com
+www.walshp.com
 walterrauag.de
 www.walterrauag.de
 wantyourfeedback.com
