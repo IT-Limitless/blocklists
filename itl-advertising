@@ -1,18 +1,21 @@
-################################################################
-## Falsche Domain gesperrt? Dann benachrichtige uns ueber:    ##
-## info (@) team.it-limitless.de                              ##
-## oder besuche unseren Blog auf blog.it-limitless.de         ##
-## oder wirke an den Blocklisten über GitHub mit:             ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## zuletzt ueberarbeitet am: 2026-09-05 23:10                   ##
-##                                                            ##
-## Having trouble? Message us at                              ##
-## info (@) team.it-limitless.de                              ##
-## or visit our blog at blog.it-limitless.de                  ##
-## or add/remove the domain at the corresponding blocklist at ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## edited at: 2026-09-05 23:10                                ##
-################################################################
+###########################################################################################
+## Zum Importieren der Listen, bitte nutze ausschließlich den Link im Format             ##
+## ITLurl.de/blocklists/listnamexyz anstatt des Direktlinks                              ##
+## Falsche Domain gesperrt? Dann benachrichtige uns ueber:                               ##
+## info (@) team.it-limitless.de                                                         ##
+## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
+## oder wirke an den Blocklisten über GitHub mit:                                        ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## zuletzt ueberarbeitet am: 2026-09-13 03:33                                            ##
+##                                                                                       ##
+## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
+## Having trouble? Message us at                                                         ##
+## info (@) team.it-limitless.de                                                         ##
+## or visit our blog at blog.it-limitless.de                                             ##
+## or add/remove the domain at the corresponding blocklist at                            ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## edited at: 2026-09-13 03:33                                                           ##
+###########################################################################################
 itl-advertising.blocktest.it-limitless.de
  
 1-win.es
@@ -35,6 +38,10 @@ a.adup-tech.com
 www.a.adup-tech.com
 aax-eu.amazon.de
 www.aax-eu.amazon.de
+acdn.adnxs.com
+www.acdn.adnxs.com
+acdn.prod.pubstack.io
+www.acdn.prod.pubstack.io
 ad-ace.doubleclick.net
 www.ad-ace.doubleclick.net
 ad-agent.com
@@ -699,6 +706,8 @@ ad3.adfarm2.adition.com
 www.ad3.adfarm2.adition.com
 ad4.ad-srv.net
 www.ad4.ad-srv.net
+ad4mat.de
+www.ad4mat.de
 ad5.ad-srv.net
 www.ad5.ad-srv.net
 ad6.ad-srv.net
@@ -769,6 +778,8 @@ ads4unitymedia.de
 www.ads4unitymedia.de
 adscale.de
 www.adscale.de
+adservice.google.de
+www.adservice.google.de
 adservice.google.de 
 www.adservice.google.de 
 adshot.de
@@ -803,6 +814,8 @@ akadns.net
 www.akadns.net
 akamai.net
 www.akamai.net
+ams1-ib.adnxs.com
+www.ams1-ib.adnxs.com
 analytics.yahoo.com
 www.analytics.yahoo.com
 api.taboola.com
@@ -869,6 +882,8 @@ cdn.bannerflow.com
 www.cdn.bannerflow.com
 cdn.recognified.net
 www.cdn.recognified.net
+cdntrf.com
+www.cdntrf.com
 chango.com
 www.chango.com
 chicken-road.fr
@@ -887,6 +902,8 @@ clicktracks.com
 www.clicktracks.com
 clickzzs.nl
 www.clickzzs.nl
+cm.adsafety.net
+www.cm.adsafety.net
 cnt.hd21.com
 www.cnt.hd21.com
 commander1.com
@@ -921,6 +938,8 @@ decideinteractive.com
 www.decideinteractive.com
 developers.google.cn
 www.developers.google.cn
+dms.ospserver.net
+www.dms.ospserver.net
 dotomi.com
 www.dotomi.com
 doubleclick.com
@@ -981,6 +1000,8 @@ foxnetworks.com
 www.foxnetworks.com
 g.doubleclick.net
 www.g.doubleclick.net
+g.themoneytizer.net
+www.g.themoneytizer.net
 go-eu.mediagotechnology.com
 www.go-eu.mediagotechnology.com
 google-analytics.com
@@ -1011,8 +1032,14 @@ hypestat.com
 www.hypestat.com
 iadsdk.apple.com
 www.iadsdk.apple.com
+ib.adnxs.com
+www.ib.adnxs.com
+ice.360yield.com
+www.ice.360yield.com
 ih.adscale.de
 www.ih.adscale.de
+imagesrv.adition.com
+www.imagesrv.adition.com
 img.revcontent.com
 www.img.revcontent.com
 impdesk.com
@@ -1035,6 +1062,8 @@ ivwbox.de
 www.ivwbox.de
 iwwit.de
 www.iwwit.de
+js-sec.indexww.com
+www.js-sec.indexww.com
 js.ui-portal.de
 www.js.ui-portal.de
 jsfuel.com
@@ -1145,6 +1174,8 @@ outcall-massage.shop
 www.outcall-massage.shop
 overture.com
 www.overture.com
+p.cpx.to
+www.p.cpx.to
 p7s1digital.de
 www.p7s1digital.de
 pagead1.googlesyndication.com
@@ -1273,6 +1304,8 @@ statcounter.com
 www.statcounter.com
 static-spartan-neu-s-msn-com.akamaized.net 
 www.static-spartan-neu-s-msn-com.akamaized.net 
+static.classistatic.de
+www.static.classistatic.de
 statics-marketingsites-neu-ms-com.akamaized.net
 www.statics-marketingsites-neu-ms-com.akamaized.net
 studyeffect.com
