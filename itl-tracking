@@ -1,18 +1,21 @@
-################################################################
-## Falsche Domain gesperrt? Dann benachrichtige uns ueber:    ##
-## info (@) team.it-limitless.de                              ##
-## oder besuche unseren Blog auf blog.it-limitless.de         ##
-## oder wirke an den Blocklisten über GitHub mit:             ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## zuletzt ueberarbeitet am: 2026-09-05 23:22                   ##
-##                                                            ##
-## Having trouble? Message us at                              ##
-## info (@) team.it-limitless.de                              ##
-## or visit our blog at blog.it-limitless.de                  ##
-## or add/remove the domain at the corresponding blocklist at ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## edited at: 2026-09-05 23:22                                ##
-################################################################
+###########################################################################################
+## Zum Importieren der Listen, bitte nutze ausschließlich den Link im Format             ##
+## ITLurl.de/blocklists/listnamexyz anstatt des Direktlinks                              ##
+## Falsche Domain gesperrt? Dann benachrichtige uns ueber:                               ##
+## info (@) team.it-limitless.de                                                         ##
+## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
+## oder wirke an den Blocklisten über GitHub mit:                                        ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## zuletzt ueberarbeitet am: 2026-09-13 03:37                                            ##
+##                                                                                       ##
+## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
+## Having trouble? Message us at                                                         ##
+## info (@) team.it-limitless.de                                                         ##
+## or visit our blog at blog.it-limitless.de                                             ##
+## or add/remove the domain at the corresponding blocklist at                            ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## edited at: 2026-09-13 03:37                                                           ##
+###########################################################################################
 itl-tracking.blocktest.it-limitless.de
  
 1-win.es
@@ -31,6 +34,8 @@ www.33across.com
 www.4bets.pro
 4cfs7prl.r.eu-west-1.awstrack.me
 www.4cfs7prl.r.eu-west-1.awstrack.me
+4f2o1f.bf01x.hubspotemail.net
+www.4f2o1f.bf01x.hubspotemail.net
 4f2pua.bf05x.hubspotemail.net
 www.4f2pua.bf05x.hubspotemail.net
 4f2puc.bf05x.hubspotemail.net
@@ -45,6 +50,8 @@ aaxads.com
 www.aaxads.com
 aboutads.info
 www.aboutads.info
+activity.windows.com
+www.activity.windows.com
 acuityads.com
 www.acuityads.com
 ad.360yield.com
@@ -75,6 +82,8 @@ ads.trafficjunky.net
 www.ads.trafficjunky.net
 adstradata.com
 www.adstradata.com
+advertiser.wbtrk.net
+www.advertiser.wbtrk.net
 advertising.roku.com
 www.advertising.roku.com
 adx.adserving.tech
@@ -93,6 +102,8 @@ analytics.icu
 www.analytics.icu
 analytics03.techsmith.com
 www.analytics03.techsmith.com
+api.diagnostics.office.com
+www.api.diagnostics.office.com
 api.permutive.com
 www.api.permutive.com
 apolloprogram.com
@@ -135,8 +146,12 @@ bbhifbbe.r.af.d.sendibt2.com
 www.bbhifbbe.r.af.d.sendibt2.com
 bd77f1o.bf07x.hubspotemail.net
 www.bd77f1o.bf07x.hubspotemail.net
+bd77fzb.bf07x.hubspotemail.net
+www.bd77fzb.bf07x.hubspotemail.net
 beeswax.com
 www.beeswax.com
+bf01x.hubspotemail.net
+www.bf01x.hubspotemail.net
 bf04.na2.hubspotemail.net
 www.bf04.na2.hubspotemail.net
 bf05x.hubspotemail.net
@@ -145,6 +160,8 @@ bf07x.hubspotemail.net
 www.bf07x.hubspotemail.net
 bid47si.bf05x.hubspotemail.net
 www.bid47si.bf05x.hubspotemail.net
+bid47ts.bf05x.hubspotemail.net
+www.bid47ts.bf05x.hubspotemail.net
 bidr.io
 www.bidr.io
 bitrhymes.bingo
@@ -171,6 +188,10 @@ byc96ku.bf04.na2.hubspotemail.net
 www.byc96ku.bf04.na2.hubspotemail.net
 c.r046.com
 www.c.r046.com
+c.s-microsoft.com
+www.c.s-microsoft.com
+c.tmyzer.com
+www.c.tmyzer.com
 candycrush.king.com
 www.candycrush.king.com
 carbonrmp.com
@@ -203,6 +224,8 @@ cdn.recognified.net
 www.cdn.recognified.net
 cdws.eu-west-1.amazonaws.com
 www.cdws.eu-west-1.amazonaws.com
+cf8c-04.na1.hubspotlinks.com
+www.cf8c-04.na1.hubspotlinks.com
 chicken-road.fr
 www.chicken-road.fr
 chickenroad.es
@@ -237,6 +260,8 @@ clk.organable.sa.com
 www.clk.organable.sa.com
 clk.termbreed.sa.com
 www.clk.termbreed.sa.com
+cmp.md-nx.com
+www.cmp.md-nx.com
 cognitiv.ai
 www.cognitiv.ai
 cognitivemarketing.tid.es 
@@ -271,8 +296,12 @@ cz15y20kg2.execute-api.us-east-1.amazonaws.com
 www.cz15y20kg2.execute-api.us-east-1.amazonaws.com
 d2bvyl04.na2.hubspotlinks.com
 www.d2bvyl04.na2.hubspotlinks.com
+data-66584305d5.mainpost.de
+www.data-66584305d5.mainpost.de
 datonics.com
 www.datonics.com
+dc.di.atlas.samsung.com
+www.dc.di.atlas.samsung.com
 dc.di.atlas.samsung.com 
 www.dc.di.atlas.samsung.com 
 dcape-na.amazon.com
@@ -303,10 +332,16 @@ digprjsurvey.amazon.eu
 www.digprjsurvey.amazon.eu
 districtm.ca
 www.districtm.ca
+dls-udc.dqa.samsung.com
+www.dls-udc.dqa.samsung.com
 dls-udc.dqa.samsung.com 
 www.dls-udc.dqa.samsung.com 
+dm.samsungdive.com
+www.dm.samsungdive.com
 dm.samsungdive.com 
 www.dm.samsungdive.com 
+dmp.theadex.com
+www.dmp.theadex.com
 dp-discovery-na-ext.amazon.com
 www.dp-discovery-na-ext.amazon.com
 dp-gw-na.amazon.com
@@ -337,6 +372,8 @@ encuentraprecios.es
 www.encuentraprecios.es
 encuentraycompara.es
 www.encuentraycompara.es
+enterprise.activity.windows.com
+www.enterprise.activity.windows.com
 enterprise.noddus.com 
 www.enterprise.noddus.com 
 eu.api.amazonvideo.com
@@ -375,10 +412,14 @@ genteds.sbs
 www.genteds.sbs
 gl0y6kr6.r.ap-southeast-1.awstrack.me
 www.gl0y6kr6.r.ap-southeast-1.awstrack.me
+gld.push.samsungosp.com
+www.gld.push.samsungosp.com
 gld.push.samsungosp.com 
 www.gld.push.samsungosp.com 
 gld.push.samsungosp.comadservice.google.de 
 www.gld.push.samsungosp.comadservice.google.de 
+gllto1.glpals.com
+www.gllto1.glpals.com
 google-analytics.com
 www.google-analytics.com
 googleads.g.doubleclick.net
@@ -395,6 +436,8 @@ groundtruth.com
 www.groundtruth.com
 groupm.com
 www.groupm.com
+gum.criteo.com
+www.gum.criteo.com
 gumgum.com
 www.gumgum.com
 gy.d.sender-sib.com
@@ -417,10 +460,16 @@ hs-22026153.s.hubspotemail-na2.net
 www.hs-22026153.s.hubspotemail-na2.net
 hs-3953618.s.hubspotemail.net
 www.hs-3953618.s.hubspotemail.net
+hs-5377751.f.hubspotemail.net
+www.hs-5377751.f.hubspotemail.net
+hs-5377751.s.hubspotemail.net
+www.hs-5377751.s.hubspotemail.net
 hx.d.sender-sib.com
 www.hx.d.sender-sib.com
 i.liadm.com
 www.i.liadm.com
+improving.duckduckgo.com
+www.improving.duckduckgo.com
 inboxhouse.com
 www.inboxhouse.com
 indexexchange.com
@@ -439,6 +488,8 @@ io.s3.amazonaws.com
 www.io.s3.amazonaws.com
 ioam.de
 www.ioam.de
+iphonesubmissions.apple.com
+www.iphonesubmissions.apple.com
 ipromote.com
 www.ipromote.com
 iptv-kopen.nl
@@ -451,6 +502,8 @@ jellyfish.com
 www.jellyfish.com
 jqhcjvsy.r.us-east-1.awstrack.me
 www.jqhcjvsy.r.us-east-1.awstrack.me
+js-sec.indexww.com
+www.js-sec.indexww.com
 k0lj20jr.r.eu-central-1.awstrack.me
 www.k0lj20jr.r.eu-central-1.awstrack.me
 kantar.com 
@@ -459,6 +512,8 @@ kargo.com
 www.kargo.com
 kbmg.com
 www.kbmg.com
+kh.d.sender-sib.com
+www.kh.d.sender-sib.com
 knorex.com
 www.knorex.com
 krxd.net
@@ -473,8 +528,16 @@ livetvon.click
 www.livetvon.click
 lkqd.com
 www.lkqd.com
+load.sumo.com
+www.load.sumo.com
+logsene-receiver.eu.sematext.com
+www.logsene-receiver.eu.sematext.com
+logx.optimizely.com
+www.logx.optimizely.com
 lotame.com
 www.lotame.com
+lumo-hotel.click
+www.lumo-hotel.click
 luxurymedia.digital
 www.luxurymedia.digital
 m.prokim.click
@@ -495,6 +558,8 @@ marketo.com
 www.marketo.com
 markitdigital.com
 www.markitdigital.com
+mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com
+www.mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com
 mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com 
 www.mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com 
 mcusercontent.com
@@ -525,6 +590,8 @@ mycarinsurancequotes.co.uk
 www.mycarinsurancequotes.co.uk
 n.demclub.click
 www.n.demclub.click
+na.glbtls.t.co
+www.na.glbtls.t.co
 nativo.com
 www.nativo.com
 ncaudienceexchange.com
@@ -555,6 +622,8 @@ o22.ptr9106.email.tiktok.com
 www.o22.ptr9106.email.tiktok.com
 o28.ptr1415.email.tiktok.com
 www.o28.ptr1415.email.tiktok.com
+occasions.friendlycrm.com
+www.occasions.friendlycrm.com
 okube-attribution.com
 www.okube-attribution.com
 onclick.club
@@ -583,6 +652,8 @@ owneriq.com
 www.owneriq.com
 ozoneproject.com 
 www.ozoneproject.com 
+p.cpx.to
+www.p.cpx.to
 paid.outbrain.com
 www.paid.outbrain.com
 parrable.com
@@ -597,6 +668,8 @@ pgl.yoyo.org
 www.pgl.yoyo.org
 physitrack.es
 www.physitrack.es
+pinterest-alternate.app.link
+www.pinterest-alternate.app.link
 plugilo.com
 www.plugilo.com
 policy.hubspot.com
@@ -647,8 +720,12 @@ retargetly.com
 www.retargetly.com
 rhythmone.com
 www.rhythmone.com
+rosetta.prod.ps.welt.de
+www.rosetta.prod.ps.welt.de
 rubiconproject.com
 www.rubiconproject.com
+rules.quantcount.com
+www.rules.quantcount.com
 samba.tv
 www.samba.tv
 sb.scorecardresearch.com
@@ -739,6 +816,8 @@ soundcast.fm
 www.soundcast.fm 
 sovrn.com
 www.sovrn.com
+spl.zeotap.com
+www.spl.zeotap.com
 spolecznosci.pl 
 www.spolecznosci.pl 
 sportradar.com 
@@ -781,6 +860,10 @@ tabmo.io.s3.amazonaws.com
 www.tabmo.io.s3.amazonaws.com
 taboola.com
 www.taboola.com
+tag.leadplace.fr
+www.tag.leadplace.fr
+tag.md-nx.com
+www.tag.md-nx.com
 tags.tiqcdn.com
 www.tags.tiqcdn.com
 tap-client-stats.s3-eu-west-1.amazonaws.com
@@ -977,6 +1060,10 @@ usemax.de
 www.usemax.de 
 userimg-assets-eu.customeriomail.com
 www.userimg-assets-eu.customeriomail.com
+usllpic0-878f9b442df350002e0d59f3c351325b4fa36101-am1.e.aa.online-metrix.net
+www.usllpic0-878f9b442df350002e0d59f3c351325b4fa36101-am1.e.aa.online-metrix.net
+usllpic0-8c4df72852ec0cebc0b9f2bebff8ed003a9c0fb4-am1.e.aa.online-metrix.net
+www.usllpic0-8c4df72852ec0cebc0b9f2bebff8ed003a9c0fb4-am1.e.aa.online-metrix.net
 usw2-track.atlassian.com
 www.usw2-track.atlassian.com
 v.11880.comus.list-manage.com
@@ -999,6 +1086,8 @@ verizonmedia.co
 www.verizonmedia.co
 verizonmedia.com 
 www.verizonmedia.com 
+vg02.met.vgwort.de
+www.vg02.met.vgwort.de
 viantinc.com
 www.viantinc.com
 vibrantmedia.com
@@ -1035,6 +1124,8 @@ whatrocks.co
 www.whatrocks.co
 widespace.com
 www.widespace.com
+win10-trt.msedge.net
+www.win10-trt.msedge.net
 wizaly.com
 www.wizaly.com
 wpc.v0cdn.net
