@@ -1,18 +1,21 @@
-################################################################
-## Falsche Domain gesperrt? Dann benachrichtige uns ueber:    ##
-## info (@) team.it-limitless.de                              ##
-## oder besuche unseren Blog auf blog.it-limitless.de         ##
-## oder wirke an den Blocklisten über GitHub mit:             ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## zuletzt ueberarbeitet am: 2026-09-05 23:21                   ##
-##                                                            ##
-## Having trouble? Message us at                              ##
-## info (@) team.it-limitless.de                              ##
-## or visit our blog at blog.it-limitless.de                  ##
-## or add/remove the domain at the corresponding blocklist at ##
-## https://github.com/IT-Limitless/blocklists                 ##
-## edited at: 2026-09-05 23:21                                ##
-################################################################
+###########################################################################################
+## Zum Importieren der Listen, bitte nutze ausschließlich den Link im Format             ##
+## ITLurl.de/blocklists/listnamexyz anstatt des Direktlinks                              ##
+## Falsche Domain gesperrt? Dann benachrichtige uns ueber:                               ##
+## info (@) team.it-limitless.de                                                         ##
+## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
+## oder wirke an den Blocklisten über GitHub mit:                                        ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## zuletzt ueberarbeitet am: 2026-09-13 03:37                                            ##
+##                                                                                       ##
+## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
+## Having trouble? Message us at                                                         ##
+## info (@) team.it-limitless.de                                                         ##
+## or visit our blog at blog.it-limitless.de                                             ##
+## or add/remove the domain at the corresponding blocklist at                            ##
+## https://github.com/IT-Limitless/blocklists                                            ##
+## edited at: 2026-09-13 03:37                                                           ##
+###########################################################################################
 itl-spam.blocktest.it-limitless.de
  
 001.de-mx.crsend.com
@@ -393,6 +396,8 @@ agrarfrost.de
 www.agrarfrost.de
 agrifac.com
 www.agrifac.com
+agriupdates.info
+www.agriupdates.info
 agvnord.de
 www.agvnord.de
 agy-dresden.de
@@ -1613,6 +1618,8 @@ cind.se
 www.cind.se
 cio37196.kpler.com
 www.cio37196.kpler.com
+ciobusinessleaders.com
+www.ciobusinessleaders.com
 cioeu69310.swissmademarketing.net
 www.cioeu69310.swissmademarketing.net
 ciro.ca
@@ -2749,6 +2756,8 @@ extsmtpict75.orange.ci
 www.extsmtpict75.orange.ci
 ez-fashion.de
 www.ez-fashion.de
+f.antonis.com
+www.f.antonis.com
 f112.mxout.mta4.net
 www.f112.mxout.mta4.net
 f194.i.mail.ru
@@ -3277,6 +3286,8 @@ gov.yk.ca
 www.gov.yk.ca
 gpt-center.de
 www.gpt-center.de
+gptpulse24.de
+www.gptpulse24.de
 graf-metternich-quellen.de
 www.graf-metternich-quellen.de
 grafschafter.de
@@ -5121,6 +5132,8 @@ mail.gmptrasporti.eu
 www.mail.gmptrasporti.eu
 mail.goldlineenergy.de
 www.mail.goldlineenergy.de
+mail.gptpulse24.de
+www.mail.gptpulse24.de
 mail.haus-hoster.my
 www.mail.haus-hoster.my
 mail.hollpack.pro
@@ -6955,6 +6968,8 @@ quiztoolbox.com
 www.quiztoolbox.com
 r.dci-medien.de
 www.r.dci-medien.de
+r.mail.gptpulse24.de
+www.r.mail.gptpulse24.de
 r405.com
 www.r405.com
 r68.info.wiley.com
@@ -8029,6 +8044,8 @@ sus-stadtlohn.de
 www.sus-stadtlohn.de
 suus.com
 www.suus.com
+suvsaclu.live
+www.suvsaclu.live
 suwelack.de
 www.suwelack.de
 sv-mistelgau.de
@@ -8861,6 +8878,8 @@ waldstimmung.de
 www.waldstimmung.de
 wallek-geser.de
 www.wallek-geser.de
+walshp.com
+www.walshp.com
 walterrauag.de
 www.walterrauag.de
 wantyourfeedback.com
