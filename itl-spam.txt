@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-09-13 03:37                                            ##
+## zuletzt ueberarbeitet am: 2026-09-19 22:23                                            ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
 ## Having trouble? Message us at                                                         ##
@@ -14,7 +14,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-09-13 03:37                                                           ##
+## edited at: 2026-09-19 22:23                                                           ##
 ###########################################################################################
 itl-spam.blocktest.it-limitless.de
  
@@ -176,6 +176,8 @@ www.1ff5f192.droughttip.cyou
 www.1ff5f192.w7lrqctpv.droughttip.cyou
 1mqxogli8f.kmy
 www.1mqxogli8f.kmy
+1wnpde.life
+www.1wnpde.life
 1z48wjwjn.aliveback.buzz
 www.1z48wjwjn.aliveback.buzz
 2.jhpdxu.com
@@ -562,6 +564,8 @@ anca-aste.it
 www.anca-aste.it
 andreas-schmid.de
 www.andreas-schmid.de
+animesonline.gratis
+www.animesonline.gratis
 anjabunge-carwow.de
 www.anjabunge-carwow.de
 anna.an
@@ -1444,6 +1448,8 @@ capatruck.de
 www.capatruck.de
 capital-baustoffe.de
 www.capital-baustoffe.de
+capricorniokk.buzz
+www.capricorniokk.buzz
 caravankompaniet.se
 www.caravankompaniet.se
 carbo.de
@@ -1528,8 +1534,6 @@ cclind.com
 www.cclind.com
 cda-ennepe-ruhr.de
 www.cda-ennepe-ruhr.de
-cdg3s51mta65.xt.local
-www.cdg3s51mta65.xt.local
 cdtuotu.com
 www.cdtuotu.com
 cdu-barnim.de
@@ -2436,8 +2440,6 @@ elektrotechnik-otto.de
 www.elektrotechnik-otto.de
 elementcourage.buzz
 www.elementcourage.buzz
-eleven.de
-www.eleven.de
 elingundeling.de
 www.elingundeling.de
 elkem.no
@@ -2650,12 +2652,12 @@ erfolg-und-business.de
 www.erfolg-und-business.de
 erfolgsrecruiting-mit-stahlmeier.de
 www.erfolgsrecruiting-mit-stahlmeier.de
+ermka.com
+www.ermka.com
 ernstboecker.de
 www.ernstboecker.de
 ernsthaftes.de
 www.ernsthaftes.de
-erp1.local
-www.erp1.local
 erwinhymergroup.com
 www.erwinhymergroup.com
 esgroupsite.com
@@ -2718,8 +2720,6 @@ europeantrustaward.nl
 www.europeantrustaward.nl
 eurotrans-continental.com
 www.eurotrans-continental.com
-eurp193.prod.outlook.com
-www.eurp193.prod.outlook.com
 evag.com
 www.evag.com
 evaluacion.gob.ec
@@ -3042,8 +3042,6 @@ frogdigital.co
 www.frogdigital.co
 frontoza.serveriai.lt
 www.frontoza.serveriai.lt
-frtgsclyapora01a.main.glb.corp.local
-www.frtgsclyapora01a.main.glb.corp.local
 ftmoney.xyz
 www.ftmoney.xyz
 ftp.ram-server.my
@@ -3372,8 +3370,6 @@ gut-immenbeck.de
 www.gut-immenbeck.de
 gutsverwaltung-von-witzleben.de
 www.gutsverwaltung-von-witzleben.de
-gv0p278mb0162.chep278.prod.outlook.com
-www.gv0p278mb0162.chep278.prod.outlook.com
 gva1xe.earsuper.cam
 www.gva1xe.earsuper.cam
 gvgladbach.de
@@ -4678,8 +4674,6 @@ lapetitesirene.be
 www.lapetitesirene.be
 lars-dura.com
 www.lars-dura.com
-las1s04mta1074.xt.local
-www.las1s04mta1074.xt.local
 laseracneremoval.life
 www.laseracneremoval.life
 latamnearshoring.com
@@ -5354,6 +5348,8 @@ mailserver.ibin.eu
 www.mailserver.ibin.eu
 mailserver.uirs.pl
 www.mailserver.uirs.pl
+main.cialina.at
+www.main.cialina.at
 main.tourismus.services
 www.main.tourismus.services
 maisondudiabete.be
@@ -5986,8 +5982,6 @@ mydidadi.info
 www.mydidadi.info
 myhermes-de.com
 www.myhermes-de.com
-myhosting.web.vweb01.schleyer.services
-www.myhosting.web.vweb01.schleyer.services
 myhr-portal.site
 www.myhr-portal.site
 myleodsc.cloud
@@ -6672,6 +6666,8 @@ pen-yang-harmonie.de
 www.pen-yang-harmonie.de
 pension-kuemmel.de
 www.pension-kuemmel.de
+pepebeto66.beto-bot.com
+www.pepebeto66.beto-bot.com
 perdue.com
 www.perdue.com
 perfect-face-ulm.de
@@ -8862,8 +8858,6 @@ w2np.site
 www.w2np.site
 w2p.xyz
 www.w2p.xyz
-w3.org
-www.w3.org
 w7lrqctpv.droughttip.cyou
 www.w7lrqctpv.droughttip.cyou
 wa-wmi.com
@@ -9104,8 +9098,6 @@ worldremit.com
 www.worldremit.com
 worldtradestrategyhub.com
 www.worldtradestrategyhub.com
-worldtradestrategyhub.com 
-www.worldtradestrategyhub.com 
 wowworks.org
 www.wowworks.org
 wp.hostine.com.es
@@ -9206,12 +9198,6 @@ xqueue.com
 www.xqueue.com
 xqykbio.com
 www.xqykbio.com
-xqykbioâ€¤com
-www.xqykbioâ€¤com
-xtragrindr.com
-www.xtragrindr.com
-xtube.com
-www.xtube.com
 xwmbvf.com
 www.xwmbvf.com
 xxl-consol.com
