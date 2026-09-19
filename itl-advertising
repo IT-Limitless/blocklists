@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-09-13 03:33                                            ##
+## zuletzt ueberarbeitet am: 2026-09-19 22:09                                            ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
 ## Having trouble? Message us at                                                         ##
@@ -14,7 +14,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-09-13 03:33                                                           ##
+## edited at: 2026-09-19 22:09                                                           ##
 ###########################################################################################
 itl-advertising.blocktest.it-limitless.de
  
@@ -674,8 +674,8 @@ ad08.ad-srv.net
 www.ad08.ad-srv.net
 ad09.ad-srv.net
 www.ad09.ad-srv.net
-ad1.ad-srv.net 
-www.ad1.ad-srv.net 
+ad1.ad-srv.net
+www.ad1.ad-srv.net
 ad1.adfarm1.adition.com
 www.ad1.adfarm1.adition.com
 ad1.adfarm2.adition.com
@@ -758,8 +758,8 @@ adrolays.de
 www.adrolays.de
 adrotator.com
 www.adrotator.com
-ads.datacentermedia.com 
-www.ads.datacentermedia.com 
+ads.datacentermedia.com
+www.ads.datacentermedia.com
 ads.fox.com
 www.ads.fox.com
 ads.foxnews.com
@@ -780,8 +780,6 @@ adscale.de
 www.adscale.de
 adservice.google.de
 www.adservice.google.de
-adservice.google.de 
-www.adservice.google.de 
 adshot.de
 www.adshot.de
 adspirit.de
@@ -794,8 +792,8 @@ adtegrity.net
 www.adtegrity.net
 adup-tech.com
 www.adup-tech.com
-advertisement.ad-srv.net 
-www.advertisement.ad-srv.net 
+advertisement.ad-srv.net
+www.advertisement.ad-srv.net
 advertising.com
 www.advertising.com
 advogarant.de
@@ -828,8 +826,6 @@ as.ad4m.at
 www.as.ad4m.at
 assign.wiwo.de
 www.assign.wiwo.de
-assign.wiwo.de 
-www.assign.wiwo.de 
 atdmt.com
 www.atdmt.com
 atemda.com
@@ -986,16 +982,12 @@ filmkovasi.org
 www.filmkovasi.org
 filmmakinesi.pw
 www.filmmakinesi.pw
-filmmakinesi.pw 
-www.filmmakinesi.pw 
 flagcounter.com
 www.flagcounter.com
 flashtalking.com
 www.flashtalking.com
 flexential.com
 www.flexential.com
-flexential.com 
-www.flexential.com 
 foxnetworks.com
 www.foxnetworks.com
 g.doubleclick.net
@@ -1076,8 +1068,6 @@ krxd.net
 www.krxd.net
 leasewebultracdn.com
 www.leasewebultracdn.com
-leasewebultracdn.com 
-www.leasewebultracdn.com 
 lexity.com
 www.lexity.com
 lh5.googleusercontent.com
@@ -1100,8 +1090,8 @@ marketingsolutions.yahoo.com
 www.marketingsolutions.yahoo.com
 mathtag.com
 www.mathtag.com
-mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com 
-www.mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com 
+mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com
+www.mclxcq4p96m5-6dg2h8z9nh55vxq.device.marketingcloudapis.com
 media-servers.net
 www.media-servers.net
 mediagotechnology.com
@@ -1188,6 +1178,8 @@ paid.outbrain.com
 www.paid.outbrain.com
 partnernetwork.ebay.de
 www.partnernetwork.ebay.de
+pixel.advertising.com
+www.pixel.advertising.com
 powercasino.partners
 www.powercasino.partners
 ppro.de
@@ -1214,8 +1206,6 @@ qwapi.com
 www.qwapi.com
 r1-euc1.zemanta.com
 www.r1-euc1.zemanta.com
-r1-euc1.zemanta.com 
-www.r1-euc1.zemanta.com 
 rads.recognified.net
 www.rads.recognified.net
 ratexchange.net
@@ -1302,8 +1292,8 @@ sparklit.com
 www.sparklit.com
 statcounter.com
 www.statcounter.com
-static-spartan-neu-s-msn-com.akamaized.net 
-www.static-spartan-neu-s-msn-com.akamaized.net 
+static-spartan-neu-s-msn-com.akamaized.net
+www.static-spartan-neu-s-msn-com.akamaized.net
 static.classistatic.de
 www.static.classistatic.de
 statics-marketingsites-neu-ms-com.akamaized.net
@@ -1360,10 +1350,6 @@ valassis.com
 www.valassis.com
 vdx.tv
 www.vdx.tv
-verisign.net
-www.verisign.net
-verizonmedia.co
-www.verizonmedia.co
 viantinc.com
 www.viantinc.com
 vibrantmedia.com
