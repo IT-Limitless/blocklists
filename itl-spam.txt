@@ -6,7 +6,8 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-09-19 22:23                                            ##
+## zuletzt ueberarbeitet am: 2026-09-26 23:57                                            ##
+## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
 ## Having trouble? Message us at                                                         ##
@@ -14,7 +15,8 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-09-19 22:23                                                           ##
+## edited at: 2026-09-26 23:57                                                           ##
+## No liability taken!                                                                   ##
 ###########################################################################################
 itl-spam.blocktest.it-limitless.de
  
@@ -82,6 +84,8 @@ www.01dcd117.de
 www.01dcd236.aa
 01dcdd45.dfb
 www.01dcdd45.dfb
+06j0.com
+www.06j0.com
 10u7.enterprise.ca
 www.10u7.enterprise.ca
 113010190100.static.ctinets.com
@@ -4926,8 +4930,8 @@ lx-capricorn-star-mail.qiye.163.com
 www.lx-capricorn-star-mail.qiye.163.com
 lygdongshi.com
 www.lygdongshi.com
-lygdongshiâ€¤com
-www.lygdongshiâ€¤com
+lygdongshi․com
+www.lygdongshi․com
 lyzeum.com
 www.lyzeum.com
 m-tatami.net
@@ -6736,8 +6740,8 @@ pierresetluberon.com
 www.pierresetluberon.com
 pigmenthouses.com
 www.pigmenthouses.com
-pigmenthousesâ€¤com
-www.pigmenthousesâ€¤com
+pigmenthouses․com
+www.pigmenthouses․com
 pills-breast-enhanchement.com
 www.pills-breast-enhanchement.com
 pilottoviaggi.com
