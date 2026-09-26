@@ -6,7 +6,8 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-09-19 22:11                                            ##
+## zuletzt ueberarbeitet am: 2026-09-26 23:47                                            ##
+## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
 ## Having trouble? Message us at                                                         ##
@@ -14,10 +15,13 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-09-19 22:11                                                           ##
+## edited at: 2026-09-26 23:47                                                           ##
+## No liability taken!                                                                   ##
 ###########################################################################################
 itl-malvertising.blocktest.it-limitless.de
  
+06j0.com
+www.06j0.com
 101order.com
 www.101order.com
 123found.com
@@ -3172,6 +3176,8 @@ fb-promotions.com
 www.fb-promotions.com
 fc.webmasterpro.de
 www.fc.webmasterpro.de
+fccccorp.ca
+www.fccccorp.ca
 feedbackresearch.com
 www.feedbackresearch.com
 feedjit.com
@@ -3598,6 +3604,8 @@ interstat.hu
 www.interstat.hu
 inuvi.com
 www.inuvi.com
+investing.com
+www.investing.com
 ip.ro
 www.ip.ro
 ip193.cn
