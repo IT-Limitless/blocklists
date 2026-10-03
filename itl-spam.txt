@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-09-26 23:57                                            ##
+## zuletzt ueberarbeitet am: 2026-10-04 00:35                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-09-26 23:57                                                           ##
+## edited at: 2026-10-04 00:35                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-spam.blocktest.it-limitless.de
@@ -34,6 +34,8 @@ www.005.de-mx.crsend.com
 www.006.de-mx.crsend.com
 007.de-mx.crsend.com
 www.007.de-mx.crsend.com
+xn--arbeitsmobilitt-elb.com
+www.xn--arbeitsmobilitt-elb.com
 008.de-mx.crsend.com
 www.008.de-mx.crsend.com
 009.de-mx.crsend.com
@@ -42,6 +44,8 @@ www.009.de-mx.crsend.com
 www.00fs6df.enence.net
 010.de-mx.crsend.com
 www.010.de-mx.crsend.com
+xn--arbeitsmobilitt-elb.com
+www.xn--arbeitsmobilitt-elb.com
 01019informatiktube.de
 www.01019informatiktube.de
 01dc23c2.ac
