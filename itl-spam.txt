@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-04 00:35                                            ##
+## zuletzt ueberarbeitet am: 2026-10-05 21:49                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-04 00:35                                                           ##
+## edited at: 2026-10-05 21:49                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-spam.blocktest.it-limitless.de
@@ -34,8 +34,6 @@ www.005.de-mx.crsend.com
 www.006.de-mx.crsend.com
 007.de-mx.crsend.com
 www.007.de-mx.crsend.com
-xn--arbeitsmobilitt-elb.com
-www.xn--arbeitsmobilitt-elb.com
 008.de-mx.crsend.com
 www.008.de-mx.crsend.com
 009.de-mx.crsend.com
@@ -44,8 +42,6 @@ www.009.de-mx.crsend.com
 www.00fs6df.enence.net
 010.de-mx.crsend.com
 www.010.de-mx.crsend.com
-xn--arbeitsmobilitt-elb.com
-www.xn--arbeitsmobilitt-elb.com
 01019informatiktube.de
 www.01019informatiktube.de
 01dc23c2.ac
@@ -88,6 +84,8 @@ www.01dcd117.de
 www.01dcd236.aa
 01dcdd45.dfb
 www.01dcdd45.dfb
+01dd5261.bf
+www.01dd5261.bf
 06j0.com
 www.06j0.com
 10u7.enterprise.ca
@@ -216,6 +214,10 @@ www.24more.com
 www.24plus.de
 26041736m.timocom.com
 www.26041736m.timocom.com
+277tci.localchannel.site
+www.277tci.localchannel.site
+28baq.moderncircuit.site
+www.28baq.moderncircuit.site
 2dreammusic.com
 www.2dreammusic.com
 2fnissm.jangelleluxurytravel.com
@@ -248,6 +250,8 @@ www.5y1rsxmzh.pw
 www.602btsow.vip
 618m.xyz
 www.618m.xyz
+6566lists.roundcube.fox.blognet.in
+www.6566lists.roundcube.fox.blognet.in
 66j.xyz
 www.66j.xyz
 6ty4gb7n.earsilencilpro.quest
@@ -280,6 +284,12 @@ aaa-china.net
 www.aaa-china.net
 aareon.com
 www.aareon.com
+aastexas.co
+www.aastexas.co
+aastexas.com
+www.aastexas.com
+aastexascom.onmicrosoft.com
+www.aastexascom.onmicrosoft.com
 ab-inbev.com
 www.ab-inbev.com
 abacab.com
@@ -884,6 +894,8 @@ baslerweb.com
 www.baslerweb.com
 bathroomcontrol.buzz
 www.bathroomcontrol.buzz
+batpowerball.com
+www.batpowerball.com
 batteryrecycling4u.com
 www.batteryrecycling4u.com
 bauhaus-ag.de
@@ -1238,6 +1250,8 @@ bowlcircus.eu
 www.bowlcircus.eu
 bowlplay.de
 www.bowlplay.de
+box.payfrit.com
+www.box.payfrit.com
 boydramatic.finance
 www.boydramatic.finance
 boysen-online.de
@@ -1310,6 +1324,8 @@ brizz.be
 www.brizz.be
 brk.de
 www.brk.de
+brkmcw.swiftperch.website
+www.brkmcw.swiftperch.website
 broadcast-rental.de
 www.broadcast-rental.de
 broelio.de
@@ -1620,6 +1636,8 @@ chshedging.com
 www.chshedging.com
 chsinc.com
 www.chsinc.com
+chuanglehuihudong.com
+www.chuanglehuihudong.com
 cibc.com
 www.cibc.com
 cidder.pro
@@ -1872,6 +1890,8 @@ craftech.localv.ar
 www.craftech.localv.ar
 crechelaakel.ma
 www.crechelaakel.ma
+creci-am.gov.br
+www.creci-am.gov.br
 cretschmar.de
 www.cretschmar.de
 crew.com.br
@@ -2192,6 +2212,8 @@ direktstellenschalten.de
 www.direktstellenschalten.de
 dirtbikesforpresident.com
 www.dirtbikesforpresident.com
+dispatch1-us1.ppe-hosted.com
+www.dispatch1-us1.ppe-hosted.com
 disys.com.br
 www.disys.com.br
 dkim-sign.oraclecloud.com
@@ -2672,6 +2694,8 @@ esgroupsite.com
 www.esgroupsite.com
 esire.ie
 www.esire.ie
+esj2v0.quickhub.site
+www.esj2v0.quickhub.site
 eslogistics.pl
 www.eslogistics.pl
 essentiallogistics.lt
@@ -2922,6 +2946,8 @@ fixturecastle.work
 www.fixturecastle.work
 fixyourhost.autos
 www.fixyourhost.autos
+fjsn53.directloop.space
+www.fjsn53.directloop.space
 fkm-verlag.de
 www.fkm-verlag.de
 flagelite.cn
@@ -4134,6 +4160,8 @@ iol.ie
 www.iol.ie
 ip-165-147-196-103.wjv-1.biznetg.io
 www.ip-165-147-196-103.wjv-1.biznetg.io
+ip69-48-207-162.pbiaas.com
+www.ip69-48-207-162.pbiaas.com
 ipco.com
 www.ipco.com
 ipfbkb.abrdormesh.top
@@ -4272,6 +4300,8 @@ jl-logistic.de
 www.jl-logistic.de
 jll.com
 www.jll.com
+jmoww.localdesk.site
+www.jmoww.localdesk.site
 jmp2click.com
 www.jmp2click.com
 jmueller.de
@@ -4302,6 +4332,10 @@ jsfuel.com
 www.jsfuel.com
 jugendtechnikschule-taubertal.de
 www.jugendtechnikschule-taubertal.de
+jujof.routebridge.space
+www.jujof.routebridge.space
+jumetorixa.com
+www.jumetorixa.com
 jumingo.com
 www.jumingo.com
 jun88001.vip
@@ -5084,6 +5118,12 @@ mail-sender.online
 www.mail-sender.online
 mail-serve.hagro.cn
 www.mail-serve.hagro.cn
+mail.4wrwxcyyme.com
+www.mail.4wrwxcyyme.com
+mail.5itbfegc43xmih.com
+www.mail.5itbfegc43xmih.com
+mail.72rfmreuyhy9f.com
+www.mail.72rfmreuyhy9f.com
 mail.aichbachtaler.de
 www.mail.aichbachtaler.de
 mail.aksaramaya.com
@@ -5094,16 +5134,22 @@ mail.auto-parts.my.id
 www.mail.auto-parts.my.id
 mail.awh.eu
 www.mail.awh.eu
+mail.batpowerball.com
+www.mail.batpowerball.com
 mail.beehiiv.com
 www.mail.beehiiv.com
 mail.boomkwekerijhvanlaerhoven.com
 www.mail.boomkwekerijhvanlaerhoven.com
 mail.buchalik-broemmekamp-mbh.de
 www.mail.buchalik-broemmekamp-mbh.de
+mail.c4sihxphja4g.com
+www.mail.c4sihxphja4g.com
 mail.cajadeprevisionsf.org.ar
 www.mail.cajadeprevisionsf.org.ar
 mail.carlweiske.com
 www.mail.carlweiske.com
+mail.cl4czwwiuk.com
+www.mail.cl4czwwiuk.com
 mail.cmslaw.de
 www.mail.cmslaw.de
 mail.cofgi.org
@@ -5112,6 +5158,8 @@ mail.coruns.today
 www.mail.coruns.today
 mail.csg.daimler-truck.com
 www.mail.csg.daimler-truck.com
+mail.dblgmgeiuxw.com
+www.mail.dblgmgeiuxw.com
 mail.decklasse.cloud
 www.mail.decklasse.cloud
 mail.dinglerbaumaschine.de
@@ -5120,12 +5168,18 @@ mail.dll
 www.mail.dll
 mail.dr-schaab.de
 www.mail.dr-schaab.de
+mail.e4zd4l0pupu.com
+www.mail.e4zd4l0pupu.com
 mail.ecuworldwide.com
 www.mail.ecuworldwide.com
 mail.expert-comptable-paris-corroyer.com
 www.mail.expert-comptable-paris-corroyer.com
+mail.f4tbm7deiior.com
+www.mail.f4tbm7deiior.com
 mail.feminafin.co
 www.mail.feminafin.co
+mail.ferp3ed2lslwfb.com
+www.mail.ferp3ed2lslwfb.com
 mail.frachtwerk.de
 www.mail.frachtwerk.de
 mail.gehunter.store
@@ -5138,6 +5192,8 @@ mail.gptpulse24.de
 www.mail.gptpulse24.de
 mail.haus-hoster.my
 www.mail.haus-hoster.my
+mail.hjgk9rcz4wa.com
+www.mail.hjgk9rcz4wa.com
 mail.hollpack.pro
 www.mail.hollpack.pro
 mail.hronum.buzz
@@ -5208,6 +5264,8 @@ mail.tecnobrain.ar
 www.mail.tecnobrain.ar
 mail.tecvia.com
 www.mail.tecvia.com
+mail.tfxuqhl717qc.com
+www.mail.tfxuqhl717qc.com
 mail.tmg.com
 www.mail.tmg.com
 mail.token-fuse.com
@@ -5222,6 +5280,8 @@ mail.us1.lunarnetwork.net
 www.mail.us1.lunarnetwork.net
 mail.uudeee.com
 www.mail.uudeee.com
+mail.v7j3gb1gmbk.com
+www.mail.v7j3gb1gmbk.com
 mail.vikingex.de
 www.mail.vikingex.de
 mail.vinaautorepair.com
@@ -5238,6 +5298,8 @@ mail.wise.com
 www.mail.wise.com
 mail.wtfo.net
 www.mail.wtfo.net
+mail.ylnc58nrwfpd.com
+www.mail.ylnc58nrwfpd.com
 mail.yourwebservers.com
 www.mail.yourwebservers.com
 mail.zoho.in
@@ -5614,6 +5676,8 @@ mmainvestments.com
 www.mmainvestments.com
 mne.pt
 www.mne.pt
+mnldg.boldsignal.website
+www.mnldg.boldsignal.website
 mobiilivarasto.com
 www.mobiilivarasto.com
 mobil-job.co
@@ -5938,6 +6002,8 @@ mx01.feser-graf.de
 www.mx01.feser-graf.de
 mx010.eu-mx.crsend.com
 www.mx010.eu-mx.crsend.com
+mx1-us1.ppe-hosted.com
+www.mx1-us1.ppe-hosted.com
 mx1.gnpr.de
 www.mx1.gnpr.de
 mx1.ktsend1.com
@@ -6606,6 +6672,8 @@ ouyi.icu
 www.ouyi.icu
 ox2.poczta.az.pl
 www.ox2.poczta.az.pl
+p0csp.fastsquare.site
+www.p0csp.fastsquare.site
 p1rangierhilfe.de
 www.p1rangierhilfe.de
 p24.mxout.mta2.net
@@ -6642,6 +6710,8 @@ passwordserver.de
 www.passwordserver.de
 paula-palma.de
 www.paula-palma.de
+payfrit.com
+www.payfrit.com
 payoriva.com
 www.payoriva.com
 pbc.roedl.com
@@ -6970,6 +7040,8 @@ quizlookup.com
 www.quizlookup.com
 quiztoolbox.com
 www.quiztoolbox.com
+qvmvk.nextbeam.site
+www.qvmvk.nextbeam.site
 r.dci-medien.de
 www.r.dci-medien.de
 r.mail.gptpulse24.de
@@ -7242,6 +7314,8 @@ s0.2mdn.net
 www.s0.2mdn.net
 s01063cb74b710299.wp.shawcable.net
 www.s01063cb74b710299.wp.shawcable.net
+s0jyb6.realperch.site
+www.s0jyb6.realperch.site
 s1.siisaglobal.com
 www.s1.siisaglobal.com
 s12
@@ -9214,6 +9288,8 @@ y.sdaline.com
 www.y.sdaline.com
 y5ta.jybaudot.fr
 www.y5ta.jybaudot.fr
+y9xfgu.reachlip.website
+www.y9xfgu.reachlip.website
 yakufreshperu.com
 www.yakufreshperu.com
 yangfd.com
@@ -9310,6 +9386,8 @@ zf.com
 www.zf.com
 zg-group.cn
 www.zg-group.cn
+zgi6y.routebridge.space
+www.zgi6y.routebridge.space
 zim.com
 www.zim.com
 zimmerei-klingmann.de
