@@ -1,4 +1,4 @@
-###########################################################################################
+﻿###########################################################################################
 ## Zum Importieren der Listen, bitte nutze ausschließlich den Link im Format             ##
 ## ITLurl.de/blocklists/listnamexyz anstatt des Direktlinks                              ##
 ## Falsche Domain gesperrt? Dann benachrichtige uns ueber:                               ##
@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-05 21:37                                            ##
+## zuletzt ueberarbeitet am: 2026-10-24 17:17                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-05 21:37                                                           ##
+## edited at: 2026-10-24 17:17                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-hackedemaildomains.blocktest.it-limitless.de
@@ -24,42 +24,6 @@ itl-hackedemaildomains.blocktest.it-limitless.de
 www.00fs6df.enence.net
 01019informatiktube.de
 www.01019informatiktube.de
-01dc23c2.ac
-www.01dc23c2.ac
-01dc6eb8.dbd
-www.01dc6eb8.dbd
-01dc858c.da
-www.01dc858c.da
-01dc86cd.ce
-www.01dc86cd.ce
-01dc8ed3.db
-www.01dc8ed3.db
-01dc8fb0.fb
-www.01dc8fb0.fb
-01dc9075.ebd
-www.01dc9075.ebd
-01dc91ee.bcd
-www.01dc91ee.bcd
-01dc978b.ac
-www.01dc978b.ac
-01dc9c33.deb
-www.01dc9c33.deb
-01dca182.ebcbba
-www.01dca182.ebcbba
-01dca19a.acfd
-www.01dca19a.acfd
-01dcab18.ce
-www.01dcab18.ce
-01dcaf9d.bf
-www.01dcaf9d.bf
-01dcc837.cc
-www.01dcc837.cc
-01dccbe4.fa
-www.01dccbe4.fa
-01dcd236.aa
-www.01dcd236.aa
-01dcdd45.dfb
-www.01dcdd45.dfb
 06j0.com
 www.06j0.com
 11880.com
@@ -1052,6 +1016,8 @@ caetanobus.pt
 www.caetanobus.pt
 caf.net
 www.caf.net
+cafabg.com
+www.cafabg.com
 cajadeprevisionsf.org.ar
 www.cajadeprevisionsf.org.ar
 callcenter.lifestyle-escort.co
@@ -2996,6 +2962,8 @@ icaew.com
 www.icaew.com
 iccom.com.br
 www.iccom.com.br
+ichrono.info
+www.ichrono.info
 ici-minz.de
 www.ici-minz.de
 icm-chemnitz.de
@@ -3306,6 +3274,8 @@ ironmountain.com
 www.ironmountain.com
 isa-racing.de
 www.isa-racing.de
+isabellaf.com
+www.isabellaf.com
 isagra.com
 www.isagra.com
 ised-isde.gc.ca
@@ -3392,6 +3362,8 @@ jfzba.jegcn.binvi
 www.jfzba.jegcn.binvi
 jiejuetuoyan.com
 www.jiejuetuoyan.com
+jima.or.jp
+www.jima.or.jp
 jl-logistic.de
 www.jl-logistic.de
 jll.com
@@ -3720,8 +3692,12 @@ landtechnik-brandenburg.de
 www.landtechnik-brandenburg.de
 lanfer-logistik.com
 www.lanfer-logistik.com
+langeautoteile.de
+www.langeautoteile.de
 langnese-honig.de
 www.langnese-honig.de
+lankkuansukuseura.fi
+www.lankkuansukuseura.fi
 lars-dura.com
 www.lars-dura.com
 latamnearshoring.com
@@ -6766,6 +6742,8 @@ openhydro.com
 www.openhydro.com
 optik-erdmann.de
 www.optik-erdmann.de
+oraintxe.com
+www.oraintxe.com
 orange.es
 www.orange.es
 ordesano.com
@@ -8364,6 +8342,8 @@ ucc.ie
 www.ucc.ie
 ucd.ie
 www.ucd.ie
+ukppolonia.pl
+www.ukppolonia.pl
 ukt-pro.de
 www.ukt-pro.de
 ukwwfze.com
@@ -8618,6 +8598,8 @@ wallek-geser.de
 www.wallek-geser.de
 walshp.com
 www.walshp.com
+walsphi.com
+www.walsphi.com
 walterrauag.de
 www.walterrauag.de
 wantyourfeedback.com
