@@ -7,6 +7,6 @@ Welcome to IT-Limitless/blocklists — a collection of blocklists designed to he
 Whether you're configuring a DNS filtering solution, protecting your home network, reducing unwanted tracking, or building a more secure infrastructure, this repository provides a starting point for integrating domain blocklists into your setup.
 
 Explore the repository, choose the lists that fit your needs, and contribute to a more privacy-conscious internet.
-More Information on the List and sustainable-Links can be found at https://blocklits.it-limitless.de 
+More Information on the List and sustainable-Links can be found at [blocklists.it-limitless.de ](https://blocklists.it-limitless.de)
 
-To import the lists, use the links provided via https://blocklits.it-limitless.de only!
+To import the lists, use the links provided via [blocklists.it-limitless.de ](https://blocklists.it-limitless.de) only!

@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-24 21:25                                            ##
+## zuletzt ueberarbeitet am: 2026-10-31 23:25                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-24 21:25                                                           ##
+## edited at: 2026-10-31 23:25                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-tracking.blocktest.it-limitless.de
@@ -160,8 +160,6 @@ bid47ts.bf05x.hubspotemail.net
 www.bid47ts.bf05x.hubspotemail.net
 bidr.io
 www.bidr.io
-bitrhymes.bingo
-www.bitrhymes.bingo
 blltghzm.r.eu-west-1.awstrack.me
 www.blltghzm.r.eu-west-1.awstrack.me
 bombora.com
@@ -200,8 +198,6 @@ casinoextra-2.fr
 www.casinoextra-2.fr
 casinojaque.es
 www.casinojaque.es
-casinologini.online
-www.casinologini.online
 casinonox.mx
 www.casinonox.mx
 casinoonlineespaa.es
@@ -234,8 +230,6 @@ cl5.apple.com
 www.cl5.apple.com
 clearstream.tv
 www.clearstream.tv
-click-eu.expmediadirect1.com
-www.click-eu.expmediadirect1.com
 click.cbrecommunications.com
 www.click.cbrecommunications.com
 click.connect.justeattakeaway.com
@@ -252,8 +246,6 @@ click.e.zoom.us
 www.click.e.zoom.us
 click.email-ecolab.com
 www.click.email-ecolab.com
-click.expmediadirect.com
-www.click.expmediadirect.com
 click.figma.com
 www.click.figma.com
 click.info.deutschebahn.com
@@ -378,16 +370,12 @@ e-planning.net
 www.e-planning.net
 ea.pstmrk.it
 www.ea.pstmrk.it
-easyads28.mobi
-www.easyads28.mobi
 edge.activity.windows.com
 www.edge.activity.windows.com
 einwilligungsspeicher.ha-cdn.de
 www.einwilligungsspeicher.ha-cdn.de
 em2342.email.tiktok.com
 www.em2342.email.tiktok.com
-email.foscoredevelopment.org
-www.email.foscoredevelopment.org
 emv1.trafficcontrol.au
 www.emv1.trafficcontrol.au
 emxdigital.com
@@ -432,8 +420,6 @@ g85w7ky7.r.us-east-1.awstrack.me
 www.g85w7ky7.r.us-east-1.awstrack.me
 gateway.icloud.com
 www.gateway.icloud.com
-genteds.sbs
-www.genteds.sbs
 gl0y6kr6.r.ap-southeast-1.awstrack.me
 www.gl0y6kr6.r.ap-southeast-1.awstrack.me
 gld.push.samsungosp.com
@@ -604,8 +590,6 @@ metrics.icloud.com
 www.metrics.icloud.com
 mpluswf.ims.vodafone.com
 www.mpluswf.ims.vodafone.com
-mrkrdz.guyfor.net
-www.mrkrdz.guyfor.net
 mrkrdz.masculinezone.net
 www.mrkrdz.masculinezone.net
 msh.amazon.co.uk
@@ -616,8 +600,6 @@ mta-sts.trafficcontrol.au
 www.mta-sts.trafficcontrol.au
 mtasv.net
 www.mtasv.net
-mycarinsurancequotes.co.uk
-www.mycarinsurancequotes.co.uk
 n.demclub.click
 www.n.demclub.click
 na.glbtls.t.co
@@ -674,8 +656,6 @@ order-control.com
 www.order-control.com
 outbrain.com
 www.outbrain.com
-outcall-massage.shop
-www.outcall-massage.shop
 owneriq.com
 www.owneriq.com
 ozoneproject.com
@@ -772,18 +752,12 @@ seo.icu
 www.seo.icu
 seoo.club
 www.seoo.club
-seotarget.pro
-www.seotarget.pro
-seriescalidad.co
-www.seriescalidad.co
 seriescultes.club
 www.seriescultes.club
 serietvu.online
 www.serietvu.online
 servedby.flashtalking.com
 www.servedby.flashtalking.com
-setfilmizle.live
-www.setfilmizle.live
 seuseriado.biz
 www.seuseriado.biz
 shape-capsules-kopen.nl
@@ -834,8 +808,6 @@ smilewanted.com
 www.smilewanted.com
 sojern.com
 www.sojern.com
-solanaclick.biz
-www.solanaclick.biz
 solo-click.pw
 www.solo-click.pw
 sonobi.com
@@ -904,8 +876,6 @@ taptapnetworks.com
 www.taptapnetworks.com
 target-video.com
 www.target-video.com
-targeting
-www.targeting
 teads.com
 www.teads.com
 teemo.co
@@ -976,8 +946,6 @@ tracking.globalgrowthbusiness.com
 www.tracking.globalgrowthbusiness.com
 tracking.hertz-car-sales.de
 www.tracking.hertz-car-sales.de
-tracking.hertzautovermietung
-www.tracking.hertzautovermietung
 tracking.hertzautovermietung-carsales.de
 www.tracking.hertzautovermietung-carsales.de
 tracking.kunde.edenred.de
@@ -998,8 +966,6 @@ tracking.webtradecenter.com
 www.tracking.webtradecenter.com
 tracksrv.zdf.de
 www.tracksrv.zdf.de
-trackxx7.com
-www.trackxx7.com
 tradelab.com
 www.tradelab.com
 tradingtwins.us17.list-manage.com
