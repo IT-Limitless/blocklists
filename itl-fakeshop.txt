@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-31 23:19                                            ##
+## zuletzt ueberarbeitet am: 2026-11-07 23:34                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-31 23:19                                                           ##
+## edited at: 2026-11-07 23:34                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-fakeshop.blocktest.it-limitless.de
@@ -92,6 +92,8 @@ bizones.de
 www.bizones.de
 blancostore.it
 www.blancostore.it
+blatant.host
+www.blatant.host
 blitzhandel24.de
 www.blitzhandel24.de
 blueflix.de
@@ -192,8 +194,6 @@ earn-money-forex-5751.elisou.com
 www.earn-money-forex-5751.elisou.com
 eduvo.net
 www.eduvo.net
-edv-network.io
-www.edv-network.io
 edv-network.io
 www.edv-network.io
 em.bringatrailer.com

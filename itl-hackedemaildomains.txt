@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-31 23:19                                            ##
+## zuletzt ueberarbeitet am: 2026-11-07 23:34                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-31 23:19                                                           ##
+## edited at: 2026-11-07 23:34                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-hackedemaildomains.blocktest.it-limitless.de
@@ -24,24 +24,6 @@ itl-hackedemaildomains.blocktest.it-limitless.de
 www.00fs6df.enence.net
 06j0.com
 www.06j0.com
-bmvrc.com
-www.bmvrc.com
-balade-theatralisee.com
-www.balade-theatralisee.com
-cafabg.com
-www.cafabg.com
-domaine-des-moures.fr
-www.domaine-des-moures.fr
-eiis.fr
-www.eiis.fr
-meilleurs-depanneurs.com
-www.meilleurs-depanneurs.com
-universalairsuspension.co.uk
-www.universalairsuspension.co.uk
-lastronauta.it
-www.lastronauta.it
-schilder-klar.de
-www.schilder-klar.de
 11880.com
 www.11880.com
 163.com
@@ -214,6 +196,8 @@ aichbachtaler.de
 www.aichbachtaler.de
 aide-france.com
 www.aide-france.com
+aiim.org
+www.aiim.org
 aimetoi.jp
 www.aimetoi.jp
 ain.group
@@ -262,6 +246,8 @@ algaucho-md.de
 www.algaucho-md.de
 algusa.com
 www.algusa.com
+aliharper.com
+www.aliharper.com
 aliseo.de
 www.aliseo.de
 aliyun.com
@@ -510,6 +496,8 @@ bahnhof.se
 www.bahnhof.se
 bahntechnik.de
 www.bahntechnik.de
+balade-theatralisee.com
+www.balade-theatralisee.com
 balifornia.com
 www.balifornia.com
 ballast-nedam.nl
@@ -716,6 +704,8 @@ bm.d.mailin.fr
 www.bm.d.mailin.fr
 bmo.com
 www.bmo.com
+bmvrc.com
+www.bmvrc.com
 bncc.no
 www.bncc.no
 bnetza.de
@@ -1030,6 +1020,8 @@ cclind.com
 www.cclind.com
 cda-ennepe-ruhr.de
 www.cda-ennepe-ruhr.de
+cdnatation-82.com
+www.cdnatation-82.com
 cdtuotu.com
 www.cdtuotu.com
 cdu-barnim.de
@@ -1214,6 +1206,8 @@ constructionrenelamonde.com
 www.constructionrenelamonde.com
 containerdienst-stoecker.de
 www.containerdienst-stoecker.de
+containex.com
+www.containex.com
 contargo.net
 www.contargo.net
 contemporarylanguages.org
@@ -1536,6 +1530,8 @@ dohrn-und-timm.de
 www.dohrn-und-timm.de
 dollarama.com
 www.dollarama.com
+domaine-des-moures.fr
+www.domaine-des-moures.fr
 domaine-des-pradelles.com
 www.domaine-des-pradelles.com
 dominionenergy.com
@@ -1666,6 +1662,8 @@ eifel-net.de
 www.eifel-net.de
 eiffage.de
 www.eiffage.de
+eiis.fr
+www.eiis.fr
 eintragsbereinigung.de
 www.eintragsbereinigung.de
 eirgrid.com
@@ -1802,6 +1800,8 @@ empire.ca
 www.empire.ca
 empireco.ca
 www.empireco.ca
+emporiabuilder.com
+www.emporiabuilder.com
 emsgrid.com
 www.emsgrid.com
 ence.es
@@ -2004,6 +2004,8 @@ fahrsport-schophoven.de
 www.fahrsport-schophoven.de
 fairfleisch.de
 www.fairfleisch.de
+faithisa.com
+www.faithisa.com
 faktoria.pl
 www.faktoria.pl
 familienoptiker.de
@@ -2696,8 +2698,6 @@ iccom.com.br
 www.iccom.com.br
 ichrono.info
 www.ichrono.info
-ichrono.info
-www.ichrono.info
 ici-minz.de
 www.ici-minz.de
 icm-chemnitz.de
@@ -2946,10 +2946,6 @@ invcanada.ca
 www.invcanada.ca
 investing.com
 www.investing.com
-investing.com
-www.investing.com
-investing.com
-www.investing.com
 invoice.edreams.com
 www.invoice.edreams.com
 invoitix.co
@@ -2986,8 +2982,6 @@ ironmountain.com
 www.ironmountain.com
 isa-racing.de
 www.isa-racing.de
-isabellaf.com
-www.isabellaf.com
 isabellaf.com
 www.isabellaf.com
 isgspedition.de
@@ -3046,6 +3040,8 @@ janemacleod.co.uk
 www.janemacleod.co.uk
 jardinesdeesperanza.net
 www.jardinesdeesperanza.net
+jazhds.com
+www.jazhds.com
 jbl.de
 www.jbl.de
 jbs.com.br
@@ -3064,8 +3060,6 @@ jeronimo-martins.pt
 www.jeronimo-martins.pt
 jfzba.jegcn.binvi
 www.jfzba.jegcn.binvi
-jima.or.jp
-www.jima.or.jp
 jima.or.jp
 www.jima.or.jp
 jl-logistic.de
@@ -3384,16 +3378,14 @@ lanfer-logistik.com
 www.lanfer-logistik.com
 langeautoteile.de
 www.langeautoteile.de
-langeautoteile.de
-www.langeautoteile.de
 langnese-honig.de
 www.langnese-honig.de
 lankkuansukuseura.fi
 www.lankkuansukuseura.fi
-lankkuansukuseura.fi
-www.lankkuansukuseura.fi
 lars-dura.com
 www.lars-dura.com
+lastronauta.it
+www.lastronauta.it
 latamnearshoring.com
 www.latamnearshoring.com
 latico.de
@@ -3546,6 +3538,8 @@ ls266.t-com.hr
 www.ls266.t-com.hr
 lsh-ag.de
 www.lsh-ag.de
+lsjt-sy.com
+www.lsjt-sy.com
 ltg-transporte.de
 www.ltg-transporte.de
 ltiglobal.com.br
@@ -5712,6 +5706,8 @@ meijer.com
 www.meijer.com
 meikeneumann-fotografie.de
 www.meikeneumann-fotografie.de
+meilleurs-depanneurs.com
+www.meilleurs-depanneurs.com
 meister-anton.de
 www.meister-anton.de
 meister-treppen-technik.de
@@ -5764,6 +5760,8 @@ mh-dienstleistungsgruppe.de
 www.mh-dienstleistungsgruppe.de
 midletondistillerycollection.com
 www.midletondistillerycollection.com
+midwayserver.com
+www.midwayserver.com
 miehe.de
 www.miehe.de
 mijnmuziekgebouw.com
@@ -6316,8 +6314,6 @@ optik-erdmann.de
 www.optik-erdmann.de
 oraintxe.com
 www.oraintxe.com
-oraintxe.com
-www.oraintxe.com
 orange.es
 www.orange.es
 ordesano.com
@@ -6426,6 +6422,8 @@ pds.pdrserv.cind.se
 www.pds.pdrserv.cind.se
 pecol.pt
 www.pecol.pt
+pediadraft.com
+www.pediadraft.com
 pegafly.de
 www.pegafly.de
 pen-yang-harmonie.de
@@ -6794,6 +6792,8 @@ rossmann.de
 www.rossmann.de
 roth-werkzeugbau.de
 www.roth-werkzeugbau.de
+rouwenverlies.net
+www.rouwenverlies.net
 royalgreenland.com
 www.royalgreenland.com
 rp.postal.cpopex.com
@@ -6924,6 +6924,8 @@ scheer-group.com
 www.scheer-group.com
 schenk-hannover.de
 www.schenk-hannover.de
+schilder-klar.de
+www.schilder-klar.de
 schirmer-kaffee.de
 www.schirmer-kaffee.de
 schlafkomfort-berndt.de
@@ -7338,6 +7340,8 @@ stockachalu.com
 www.stockachalu.com
 stocko-contact.com
 www.stocko-contact.com
+store4aday.com
+www.store4aday.com
 storiapontedera.it
 www.storiapontedera.it
 stortinget.no
@@ -7652,6 +7656,8 @@ top-magazin.de
 www.top-magazin.de
 toshibatec-tgis.com
 www.toshibatec-tgis.com
+tourismbelize.uk
+www.tourismbelize.uk
 toyotalongmile.ie
 www.toyotalongmile.ie
 tr62294740.mapasgigantes.com
@@ -7762,8 +7768,6 @@ ucd.ie
 www.ucd.ie
 ukppolonia.pl
 www.ukppolonia.pl
-ukppolonia.pl
-www.ukppolonia.pl
 ukt-pro.de
 www.ukt-pro.de
 ukwwfze.com
@@ -7804,6 +7808,8 @@ uniteprotector3222.victoria-kal.com
 www.uniteprotector3222.victoria-kal.com
 unitomo.ac.id
 www.unitomo.ac.id
+universalairsuspension.co.uk
+www.universalairsuspension.co.uk
 universityofgalway.ie
 www.universityofgalway.ie
 univicosa.com.br
@@ -8006,6 +8012,10 @@ wallek-geser.de
 www.wallek-geser.de
 walshp.com
 www.walshp.com
+walshphiip.com
+www.walshphiip.com
+walsphi.com
+www.walsphi.com
 walterrauag.de
 www.walterrauag.de
 wantyourfeedback.com

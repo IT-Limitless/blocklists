@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-31 23:19                                            ##
+## zuletzt ueberarbeitet am: 2026-11-07 23:34                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-31 23:19                                                           ##
+## edited at: 2026-11-07 23:34                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-malicious.blocktest.it-limitless.de
@@ -26,60 +26,6 @@ www.0-i-fdik.000webhostapp.com
 www.0-i0is.000webhostapp.com
 0.cl
 www.0.cl
-bruidsmomenten.nl
-www.bruidsmomenten.nl
-klrkjm.com
-www.klrkjm.com
-191-6-38-24.gointec.com.br
-www.191-6-38-24.gointec.com.br
-bilder.afterbuy.de
-www.bilder.afterbuy.de
-contentwritingsquare.com
-www.contentwritingsquare.com
-damselfishes-oceanville.vpsrdns.web-hosting.com
-www.damselfishes-oceanville.vpsrdns.web-hosting.com
-getonpedia.com
-www.getonpedia.com
-ipv4-2-46.boimnetwork.com
-www.ipv4-2-46.boimnetwork.com
-pediadraft.com
-www.pediadraft.com
-schilder-klar.de
-www.schilder-klar.de
-server1.websitedesigngrid.com
-www.server1.websitedesigngrid.com
-sewikom.de
-www.sewikom.de
-shopberndhackl.mysupr.de
-www.shopberndhackl.mysupr.de
-srv4.pediadraft.com
-www.srv4.pediadraft.com
-static.afterbuy.de
-www.static.afterbuy.de
-winsrv3.meilleurs-depanneurs.com
-www.winsrv3.meilleurs-depanneurs.com
-winsrv3.sewikom.de
-www.winsrv3.sewikom.de
-berndhackl.de
-www.berndhackl.de
-sewikom.de
-www.sewikom.de
-thal-versand.de
-www.thal-versand.de
-xserver.bruns.de
-www.xserver.bruns.de
-localhost.com
-www.localhost.com
-lsjt-sy.com
-www.lsjt-sy.com
-2.jhpdxu.com
-www.2.jhpdxu.com
-sg.yszyjn.com
-www.sg.yszyjn.com
-vidinesdurys.lt
-www.vidinesdurys.lt
-w1.xinxuan100.com
-www.w1.xinxuan100.com
 00fs6df.enence.net
 www.00fs6df.enence.net
 00l92f0n8y.stabletechfoundation.de
@@ -182,6 +128,8 @@ www.123steel.it
 www.12c48f50-3553-44c7-a31c-19fc5df83d07.filesusr.com
 12x7-ryhl-wup8.bstrojek.workers.dev
 www.12x7-ryhl-wup8.bstrojek.workers.dev
+138-36-195-168.flashnetbrasil.com.br
+www.138-36-195-168.flashnetbrasil.com.br
 143-0-0-0.pontoinfo.com.br
 www.143-0-0-0.pontoinfo.com.br
 144105952.hs-sites-eu1.com
@@ -216,6 +164,10 @@ www.189c2d36-84ff-4b81-9465-96c33c1d3b91.filesusr.com
 www.18e7ef82-5c75-44fe-ae22-4c356c2c9ce0.filesusr.com
 18p2p.me
 www.18p2p.me
+191-6-38-24.gointec.com.br
+www.191-6-38-24.gointec.com.br
+197-87-88-238.webafrica.ipv4.as20011.net
+www.197-87-88-238.webafrica.ipv4.as20011.net
 1994july.club
 www.1994july.club
 19ak90ckxyjxc.life
@@ -272,8 +224,6 @@ www.1wxrjr.top
 www.1z6j-d6t1-wve3.debra-trauqott-com-s-account.workers.dev
 2-01-3cf7-0009.cdx.cedexis.net
 www.2-01-3cf7-0009.cdx.cedexis.net
-2.jhpdxu.com
-www.2.jhpdxu.com
 2.jhpdxu.com
 www.2.jhpdxu.com
 2.pe
@@ -466,8 +416,6 @@ www.4e.mx
 www.4eem-j02j-xw4s.joseph-calyptehealing-com-s-account.workers.dev
 4f2o1f.bf01x.hubspotemail.net
 www.4f2o1f.bf01x.hubspotemail.net
-4f2pua.bf05x.hubspotemail.net
-www.4f2pua.bf05x.hubspotemail.net
 4f2pua.bf05x.hubspotemail.net
 www.4f2pua.bf05x.hubspotemail.net
 4f2puc.bf05x.hubspotemail.net
@@ -736,6 +684,8 @@ a1.odistatic.net
 www.a1.odistatic.net
 a17653bbae588d47.shareonlinedhr.workers.dev
 www.a17653bbae588d47.shareonlinedhr.workers.dev
+a203-210-87-90.bdo.starnet.net.id
+www.a203-210-87-90.bdo.starnet.net.id
 a239-109.eu.mailgun.net
 www.a239-109.eu.mailgun.net
 a247.beative.it
@@ -1400,8 +1350,6 @@ algusa.com
 www.algusa.com
 alhidaayahbooks.com
 www.alhidaayahbooks.com
-alhidaayahbooks.com
-www.alhidaayahbooks.com
 alicantenoticias.es
 www.alicantenoticias.es
 aliment.be
@@ -1510,12 +1458,6 @@ alpitrail.ch
 www.alpitrail.ch
 alpsindustries.com
 www.alpsindustries.com
-alpsindustries.com
-www.alpsindustries.com
-alpsindustries.com
-www.alpsindustries.com
-alpsindustries.com
-www.alpsindustries.com
 alquimica.es
 www.alquimica.es
 alta-quota.it
@@ -1578,12 +1520,16 @@ ambiguous-candy-rainstorm.glitch.me
 www.ambiguous-candy-rainstorm.glitch.me
 ambitious-deep-surgeon.glitch.me
 www.ambitious-deep-surgeon.glitch.me
+ambkeramika.com
+www.ambkeramika.com
 amblogistic.us
 www.amblogistic.us
 ambulatorisantomobono.it
 www.ambulatorisantomobono.it
 amdar.me
 www.amdar.me
+ameerali.worldtrustmedia.com
+www.ameerali.worldtrustmedia.com
 amenable-nutritious-yam.glitch.me
 www.amenable-nutritious-yam.glitch.me
 americanmovingandhauling.com
@@ -1822,6 +1768,8 @@ apars-surgery.org
 www.apars-surgery.org
 apartamentoslacasaelpalo.es
 www.apartamentoslacasaelpalo.es
+apartments43.at
+www.apartments43.at
 apartmentskitzbuehel.at
 www.apartmentskitzbuehel.at
 apbe.es
@@ -1936,8 +1884,6 @@ aprendeyensenaeneducacioninfantil.es
 www.aprendeyensenaeneducacioninfantil.es
 aprendizdediabetes.es
 www.aprendizdediabetes.es
-apricot-camel-515d17d64e5e011e.znlc.jp
-www.apricot-camel-515d17d64e5e011e.znlc.jp
 apricot-camel-515d17d64e5e011e.znlc.jp
 www.apricot-camel-515d17d64e5e011e.znlc.jp
 aprincipalcarniceria.es
@@ -2708,8 +2654,6 @@ baubaukota-go.id
 www.baubaukota-go.id
 baumschule-morjan.de
 www.baumschule-morjan.de
-baumschule-morjan.de
-www.baumschule-morjan.de
 baustoff-metall.com
 www.baustoff-metall.com
 bautransport-bautzen.de
@@ -2940,6 +2884,8 @@ bernards.se
 www.bernards.se
 berndgerke.de
 www.berndgerke.de
+berndhackl.de
+www.berndhackl.de
 bernhard.xss.co.at
 www.bernhard.xss.co.at
 bernstein-werkstatt-hiddensee.de
@@ -3016,8 +2962,6 @@ bf04.na2.hubspotemail.net
 www.bf04.na2.hubspotemail.net
 bf05x.hubspotemail.net
 www.bf05x.hubspotemail.net
-bf05x.hubspotemail.net
-www.bf05x.hubspotemail.net
 bf07x.hubspotemail.net
 www.bf07x.hubspotemail.net
 bg-transparency.online
@@ -3074,6 +3018,8 @@ bid47si.bf05x.hubspotemail.net
 www.bid47si.bf05x.hubspotemail.net
 bid47t7.bf05x.hubspotemail.net
 www.bid47t7.bf05x.hubspotemail.net
+bid47uc.bf05x.hubspotemail.net
+www.bid47uc.bf05x.hubspotemail.net
 bid47ux.bf05x.hubspotemail.net
 www.bid47ux.bf05x.hubspotemail.net
 bids-adobecloud.carletonscakes.com
@@ -3348,8 +3294,6 @@ bm886qt1qk.composltegear-group.com
 www.bm886qt1qk.composltegear-group.com
 bma-worldwide.com
 www.bma-worldwide.com
-bma-worldwide.com
-www.bma-worldwide.com
 bmc-building.com
 www.bmc-building.com
 bmedia.justservingfiles.net
@@ -3466,6 +3410,8 @@ borghidog.it
 www.borghidog.it
 borgopintisuites.it
 www.borgopintisuites.it
+boschtek.de
+www.boschtek.de
 boscodigretel.it
 www.boscodigretel.it
 bosketto.it
@@ -5300,8 +5246,6 @@ contenedoresbelud.es
 www.contenedoresbelud.es
 content.integrityts.com
 www.content.integrityts.com
-content.integrityts.com
-www.content.integrityts.com
 content.mailplus.nl
 www.content.mailplus.nl
 content.softgarden.com
@@ -5310,6 +5254,8 @@ contentforall.xyz
 www.contentforall.xyz
 contentmarketingacademie.fr
 www.contentmarketingacademie.fr
+contentwritingsquare.com
+www.contentwritingsquare.com
 continental.danben.com
 www.continental.danben.com
 continental.es
@@ -5864,6 +5810,8 @@ damonps2.pro
 www.damonps2.pro
 damplings.it
 www.damplings.it
+damselfishes-oceanville.vpsrdns.web-hosting.com
+www.damselfishes-oceanville.vpsrdns.web-hosting.com
 dancingworld.at
 www.dancingworld.at
 danieleguastamacchia.it
@@ -7576,6 +7524,8 @@ emons.de
 www.emons.de
 emotionaltickets.es
 www.emotionaltickets.es
+emp.emporiabuilder.com
+www.emp.emporiabuilder.com
 empiresports.co
 www.empiresports.co
 emploi-vente.fr
@@ -8360,8 +8310,6 @@ fcao.be
 www.fcao.be
 fcgroups.com
 www.fcgroups.com
-fcgroups.com
-www.fcgroups.com
 fchglove.com
 www.fchglove.com
 fconnect.s3.amazonaws.com
@@ -8390,8 +8338,6 @@ feelcontact.it
 www.feelcontact.it
 feeriecake.fr
 www.feeriecake.fr
-feh-eg.de
-www.feh-eg.de
 feh-eg.de
 www.feh-eg.de
 felco.es
@@ -8664,6 +8610,8 @@ firstledgerextension.store
 www.firstledgerextension.store
 fiscal.pro
 www.fiscal.pro
+fischers-baumschulen.de
+www.fischers-baumschulen.de
 fiser.es
 www.fiser.es
 fishbusterstore.it
@@ -9026,8 +8974,6 @@ frenchstream.live
 www.frenchstream.live
 frenzelite.de
 www.frenzelite.de
-frenzelite.de
-www.frenzelite.de
 frequent-deserted-warbler.glitch.me
 www.frequent-deserted-warbler.glitch.me
 freshxpressinc.com
@@ -9194,18 +9140,10 @@ fyamsterdam.nl
 www.fyamsterdam.nl
 fygo-io.20200929.dkim.larksuite.com
 www.fygo-io.20200929.dkim.larksuite.com
-fygo-io.20200929.dkim.larksuite.com
-www.fygo-io.20200929.dkim.larksuite.com
-fygo.io
-www.fygo.io
 fygo.io
 www.fygo.io
 fygonas.com
 www.fygonas.com
-fygonas.com
-www.fygonas.com
-fylabs.com
-www.fylabs.com
 fylabs.com
 www.fylabs.com
 fyndladan.se
@@ -9518,6 +9456,8 @@ getclypp.com
 www.getclypp.com
 getmp3.io
 www.getmp3.io
+getonpedia.com
+www.getonpedia.com
 getupidiomas.es
 www.getupidiomas.es
 getwalls.io
@@ -10134,6 +10074,8 @@ guty.es
 www.guty.es
 guzeldagenerji.com.tr
 www.guzeldagenerji.com.tr
+gventerpriseswork.com
+www.gventerpriseswork.com
 gvj.ch
 www.gvj.ch
 gvvm.es
@@ -10394,8 +10336,6 @@ hehnsg29pea4r58swcyp.bianco.com.mx
 www.hehnsg29pea4r58swcyp.bianco.com.mx
 heic-to-jpg.pro
 www.heic-to-jpg.pro
-heidelberger-schloss-gastronomie.de
-www.heidelberger-schloss-gastronomie.de
 heidelberger-schloss-gastronomie.de
 www.heidelberger-schloss-gastronomie.de
 heidiconsultant.it
@@ -10732,6 +10672,8 @@ hosting.us
 www.hosting.us
 hostingco.com.au
 www.hostingco.com.au
+hostmx1bln2.prossl.de
+www.hostmx1bln2.prossl.de
 hosts-file.net
 www.hosts-file.net
 hot.life
@@ -10898,8 +10840,6 @@ hubside.es
 www.hubside.es
 hubspot.com
 www.hubspot.com
-hubspot.com
-www.hubspot.com
 hubspotfree.net
 www.hubspotfree.net
 hubspotstarter.net
@@ -11020,8 +10960,6 @@ i867.smerep.fr
 www.i867.smerep.fr
 i89t-hzr2-9ud4.kylee-emilio-dropons-com-s-account.workers.dev
 www.i89t-hzr2-9ud4.kylee-emilio-dropons-com-s-account.workers.dev
-i9hlsw60ayvt4qiu7nid.s3.amazonaws.com
-www.i9hlsw60ayvt4qiu7nid.s3.amazonaws.com
 i9hlsw60ayvt4qiu7nid.s3.amazonaws.com
 www.i9hlsw60ayvt4qiu7nid.s3.amazonaws.com
 iab.de
@@ -12008,8 +11946,6 @@ integritynext.com
 www.integritynext.com
 integrityts.com
 www.integrityts.com
-integrityts.com
-www.integrityts.com
 inteligenteartificial.es
 www.inteligenteartificial.es
 interbanksystem.net
@@ -12140,6 +12076,8 @@ iptvsuisse41.ch
 www.iptvsuisse41.ch
 ipucn-kwtt-k59l.c-ia751748.workers.dev
 www.ipucn-kwtt-k59l.c-ia751748.workers.dev
+ipv4-2-46.boimnetwork.com
+www.ipv4-2-46.boimnetwork.com
 iq-baltrum.de
 www.iq-baltrum.de
 iq.forest-host.cv
@@ -12764,6 +12702,8 @@ kadabraleon.es
 www.kadabraleon.es
 kadinkaranganyar.id
 www.kadinkaranganyar.id
+kaeserei-reith.at
+www.kaeserei-reith.at
 kafka.xss.co.at
 www.kafka.xss.co.at
 kahn-felgen.at
@@ -12876,8 +12816,6 @@ kazaricollection.com
 www.kazaricollection.com
 kd.nr
 www.kd.nr
-kd059138182093.ppp-bb.dion.ne.jp
-www.kd059138182093.ppp-bb.dion.ne.jp
 kd059138182093.ppp-bb.dion.ne.jp
 www.kd059138182093.ppp-bb.dion.ne.jp
 kdd.be
@@ -13054,6 +12992,8 @@ klaviyo.com
 www.klaviyo.com
 klax.news
 www.klax.news
+kleberkompass.de
+www.kleberkompass.de
 kleintierpraxis-tann.de
 www.kleintierpraxis-tann.de
 klimaschutzjetzt.at
@@ -13072,8 +13012,6 @@ klonfcrtyseaflow.com
 www.klonfcrtyseaflow.com
 klout.es
 www.klout.es
-klrkjm.com
-www.klrkjm.com
 klrkjm.com
 www.klrkjm.com
 kmi-service.de
@@ -13188,8 +13126,6 @@ kreistag-karlsruhe.de
 www.kreistag-karlsruhe.de
 kremernet.de
 www.kremernet.de
-kresse-shop.de
-www.kresse-shop.de
 kresse-shop.de
 www.kresse-shop.de
 krj.at
@@ -13514,8 +13450,6 @@ larioiokolid.com
 www.larioiokolid.com
 larksuite.com
 www.larksuite.com
-larksuite.com
-www.larksuite.com
 larocca.cl
 www.larocca.cl
 lars-dura.com
@@ -13634,6 +13568,8 @@ leadize.leadqualify.net
 www.leadize.leadqualify.net
 leadnote.me
 www.leadnote.me
+leadteam.mpstreets.com
+www.leadteam.mpstreets.com
 leaf-peaceful-redcurrant.glitch.me
 www.leaf-peaceful-redcurrant.glitch.me
 leaf-soft-rabbit.glitch.me
@@ -14360,6 +14296,8 @@ lsfn.letsrockscgx02.net
 www.lsfn.letsrockscgx02.net
 lsikjsns.beer
 www.lsikjsns.beer
+lsjt-sy.com
+www.lsjt-sy.com
 lsp.us
 www.lsp.us
 lt13.ru
@@ -14604,8 +14542,6 @@ mail.bch-cs.com
 www.mail.bch-cs.com
 mail.campobom.rs.gov.br
 www.mail.campobom.rs.gov.br
-mail.cellofoam.de
-www.mail.cellofoam.de
 mail.cellofoam.de
 www.mail.cellofoam.de
 mail.coruns.today
@@ -15154,8 +15090,6 @@ mail.tolinks.digital
 www.mail.tolinks.digital
 mail.ton-piston.com
 www.mail.ton-piston.com
-mail.ton-piston.com
-www.mail.ton-piston.com
 mail.toplak.at
 www.mail.toplak.at
 mail.toplaw.at
@@ -15628,6 +15562,8 @@ mastells.gb.net
 www.mastells.gb.net
 master-iss-unitov.it
 www.master-iss-unitov.it
+master.antispamcloud.com
+www.master.antispamcloud.com
 masteranime.es
 www.masteranime.es
 mastercomunicazionepolitica.it
@@ -16212,6 +16148,8 @@ mismodelos.es
 www.mismodelos.es
 misrelevator.com
 www.misrelevator.com
+misterphoto.cl
+www.misterphoto.cl
 mit-herford.de
 www.mit-herford.de
 mitallercd.es
@@ -16410,8 +16348,6 @@ moravskoslovenskydhcup.eu
 www.moravskoslovenskydhcup.eu
 morgen-mehr.de
 www.morgen-mehr.de
-morjan.net
-www.morjan.net
 morjan.net
 www.morjan.net
 moro.in
@@ -16806,6 +16742,8 @@ mx.jonak.at
 www.mx.jonak.at
 mx.kaiserwinkl.com
 www.mx.kaiserwinkl.com
+mx.koerbler.com
+www.mx.koerbler.com
 mx.lestin.at
 www.mx.lestin.at
 mx.lubusch.at
@@ -16860,8 +16798,6 @@ mx1.kamper.at
 www.mx1.kamper.at
 mx1.larksuite.com
 www.mx1.larksuite.com
-mx1.larksuite.com
-www.mx1.larksuite.com
 mx1.lhb.at
 www.mx1.lhb.at
 mx1.luckerbauer.at
@@ -16874,8 +16810,6 @@ mx1.racealliance.at
 www.mx1.racealliance.at
 mx1.rechenzentrum-lackner.at
 www.mx1.rechenzentrum-lackner.at
-mx15.ispgateway.de
-www.mx15.ispgateway.de
 mx15.ispgateway.de
 www.mx15.ispgateway.de
 mx2.fboits.com
@@ -16892,6 +16826,8 @@ mx2.rft-spedition.at
 www.mx2.rft-spedition.at
 mx2.rico.at
 www.mx2.rico.at
+mx306.antispamcloud.com
+www.mx306.antispamcloud.com
 mx4.seeyaprduktion.at
 www.mx4.seeyaprduktion.at
 mx5.dataxy.fr
@@ -17310,8 +17246,6 @@ newland-personalservice.de
 www.newland-personalservice.de
 news.ceskeodborneknihkupectvi.cz
 www.news.ceskeodborneknihkupectvi.cz
-news.frenzelite.de
-www.news.frenzelite.de
 news.frenzelite.de
 www.news.frenzelite.de
 news.jobwoche.de
@@ -18246,6 +18180,8 @@ orangechristmasstars.be
 www.orangechristmasstars.be
 orbitatechnology.com.co
 www.orbitatechnology.com.co
+orbitfrontpathways.shop
+www.orbitfrontpathways.shop
 orbitvaulttransaction.de
 www.orbitvaulttransaction.de
 order.pro
@@ -18830,6 +18766,8 @@ pec9.biz
 www.pec9.biz
 pecolautomotive.pt
 www.pecolautomotive.pt
+pediadraft.com
+www.pediadraft.com
 pedrolobo.es
 www.pedrolobo.es
 pedrotorres.es
@@ -18950,8 +18888,6 @@ pfuvn-sakf-6n7t.p-y8hor335.workers.dev
 www.pfuvn-sakf-6n7t.p-y8hor335.workers.dev
 pfygp-qdjs-0f7e.p-o9vztksz.workers.dev
 www.pfygp-qdjs-0f7e.p-o9vztksz.workers.dev
-pgfdesigns.com
-www.pgfdesigns.com
 pgfdesigns.com
 www.pgfdesigns.com
 pghnetworks.com
@@ -19220,6 +19156,8 @@ plh.es
 www.plh.es
 plugilo.com
 www.plugilo.com
+plugin.bz
+www.plugin.bz
 plugin.com.co
 www.plugin.com.co
 plugintorrent.org
@@ -19278,8 +19216,6 @@ polarcycling.es
 www.polarcycling.es
 polibooks.it
 www.polibooks.it
-policy.hubspot.com
-www.policy.hubspot.com
 policy.hubspot.com
 www.policy.hubspot.com
 policyalternatives.org
@@ -20168,6 +20104,8 @@ ragyc-mlwu-3y2u.c-ls6bawpc.workers.dev
 www.ragyc-mlwu-3y2u.c-ls6bawpc.workers.dev
 raidotaxi.com
 www.raidotaxi.com
+rain-197-184-82-168.rain.network
+www.rain-197-184-82-168.rain.network
 rainbow.es
 www.rainbow.es
 ralstoncommunity.org
@@ -20700,8 +20638,6 @@ requipment.ru
 www.requipment.ru
 res.cloudinary.com
 www.res.cloudinary.com
-res.cloudinary.com
-www.res.cloudinary.com
 res6.info.wiley.com
 www.res6.info.wiley.com
 resarms.com
@@ -20980,6 +20916,8 @@ ristorantexiongdi.it
 www.ristorantexiongdi.it
 ristoranteyoji.it
 www.ristoranteyoji.it
+rita-bosse.de
+www.rita-bosse.de
 ritmare.it
 www.ritmare.it
 ritmik.es
@@ -21300,6 +21238,8 @@ s01063cb74b710299.wp.shawcable.net
 www.s01063cb74b710299.wp.shawcable.net
 s0jyb6.realperch.site
 www.s0jyb6.realperch.site
+s1.zhjybd.com
+www.s1.zhjybd.com
 s300.club
 www.s300.club
 s4cpk.brainwash.buzz
@@ -21652,6 +21592,8 @@ scheer-ids.com
 www.scheer-ids.com
 schemiperstudiare.it
 www.schemiperstudiare.it
+schilder-klar.de
+www.schilder-klar.de
 schlankundfit-24.de
 www.schlankundfit-24.de
 schlossschenkewackerstein.de
@@ -21890,8 +21832,6 @@ senangschool.nl
 www.senangschool.nl
 send.mail.ton-piston.com
 www.send.mail.ton-piston.com
-send.mail.ton-piston.com
-www.send.mail.ton-piston.com
 senderismoenalicante.es
 www.senderismoenalicante.es
 senderismoenasturias.es
@@ -21984,6 +21924,8 @@ server03.gcdata.at
 www.server03.gcdata.at
 server1.creativomedia.at
 www.server1.creativomedia.at
+server1.websitedesigngrid.com
+www.server1.websitedesigngrid.com
 serverads.net
 www.serverads.net
 service-accounting.de
@@ -22022,6 +21964,8 @@ sevenbooster.ch
 www.sevenbooster.ch
 seventeen06.de
 www.seventeen06.de
+sewikom.de
+www.sewikom.de
 seyst.nu
 www.seyst.nu
 sfalm01.dmz.sfws.gv.at
@@ -22040,12 +21984,12 @@ sfv-lk.de
 www.sfv-lk.de
 sg-3-44.ptr.tlmpb.com
 www.sg-3-44.ptr.tlmpb.com
-sg-3-44.ptr.tlmpb.com
-www.sg-3-44.ptr.tlmpb.com
 sg-u.ac.jp
 www.sg-u.ac.jp
 sg.booking.com
 www.sg.booking.com
+sg.yszyjn.com
+www.sg.yszyjn.com
 sg108.me
 www.sg108.me
 sgg-tchad.org
@@ -22104,6 +22048,8 @@ sharefile-io.vercel.app
 www.sharefile-io.vercel.app
 sharefile-vigr.vercel.app
 www.sharefile-vigr.vercel.app
+sharemyhtml.com
+www.sharemyhtml.com
 sharengo.it
 www.sharengo.it
 sharepoint-aah.wshi-sophuslaw-com-s-account.workers.dev
@@ -22178,6 +22124,8 @@ shop.gitr.ru
 www.shop.gitr.ru
 shop.menke-med.de
 www.shop.menke-med.de
+shopberndhackl.mysupr.de
+www.shopberndhackl.mysupr.de
 shopfurnitureonline.co.za
 www.shopfurnitureonline.co.za
 shophelix.co
@@ -22202,10 +22150,6 @@ showy-cerulean-catamaran.glitch.me
 www.showy-cerulean-catamaran.glitch.me
 shrimpforyou.nl
 www.shrimpforyou.nl
-shristingo.com
-www.shristingo.com
-shristingo.com
-www.shristingo.com
 shristingo.com
 www.shristingo.com
 shrouded-half-prune.glitch.me
@@ -22710,10 +22654,6 @@ songbeat.es
 www.songbeat.es
 soniflex.de
 www.soniflex.de
-soniflex.de
-www.soniflex.de
-soniflex.de
-www.soniflex.de
 sonmarchive.es
 www.sonmarchive.es
 sonnauer-gmbh.de
@@ -22944,6 +22884,8 @@ srv1.acomode.at
 www.srv1.acomode.at
 srv1.cardoplan.at
 www.srv1.cardoplan.at
+srv4.pediadraft.com
+www.srv4.pediadraft.com
 ss0.secu-net.com
 www.ss0.secu-net.com
 ss24ghent.be
@@ -23430,6 +23372,8 @@ symbol.us
 www.symbol.us
 symprojects.it
 www.symprojects.it
+syn-076-036-134-164.res.spectrum.com
+www.syn-076-036-134-164.res.spectrum.com
 syn-147-000-000-000.biz.spectrum.com
 www.syn-147-000-000-000.biz.spectrum.com
 sync-app-2lr2.juanzavalza-danfoss.workers.dev
@@ -23938,6 +23882,8 @@ thaibasilic.fr
 www.thaibasilic.fr
 thaimassage-lennep.de
 www.thaimassage-lennep.de
+thal-versand.de
+www.thal-versand.de
 thank.es
 www.thank.es
 thankful-clumsy-glue.glitch.me
@@ -24344,8 +24290,6 @@ tomo.cafe
 www.tomo.cafe
 tomrohaven.co.za
 www.tomrohaven.co.za
-ton-piston.com
-www.ton-piston.com
 ton-piston.com
 www.ton-piston.com
 ton-pokemon.fr
@@ -25190,6 +25134,8 @@ v.mogtrq
 www.v.mogtrq
 v.xkux
 www.v.xkux
+v1.zgyngc.com
+www.v1.zgyngc.com
 v3-deepseek.com
 www.v3-deepseek.com
 v3rgjtajm4.hangchanederland.nl
@@ -25488,6 +25434,8 @@ videonot.es
 www.videonot.es
 vidibond.es
 www.vidibond.es
+vidinesdurys.lt
+www.vidinesdurys.lt
 vidto.se
 www.vidto.se
 viena.com.es
@@ -25814,6 +25762,8 @@ w.ls
 www.w.ls
 w01q-d7dr-letd.magosto-mundeleinparks-org-s-account.workers.dev
 www.w01q-d7dr-letd.magosto-mundeleinparks-org-s-account.workers.dev
+w1.xinxuan100.com
+www.w1.xinxuan100.com
 w4h6o44cgo.lastingbranding.de
 www.w4h6o44cgo.lastingbranding.de
 w7-ledgerlive.com
@@ -25890,6 +25840,8 @@ waste.pro
 www.waste.pro
 watamisushi.it
 www.watamisushi.it
+watch.slebtech.com
+www.watch.slebtech.com
 watchfreemovi.es
 www.watchfreemovi.es
 watchseri.es
@@ -26248,6 +26200,10 @@ wink-server.de
 www.wink-server.de
 winker-sall.lol
 www.winker-sall.lol
+winsrv3.meilleurs-depanneurs.com
+www.winsrv3.meilleurs-depanneurs.com
+winsrv3.sewikom.de
+www.winsrv3.sewikom.de
 winter-numerous-bolt.glitch.me
 www.winter-numerous-bolt.glitch.me
 wintercloud.club
@@ -26554,6 +26510,8 @@ xg4ken.com
 www.xg4ken.com
 xgaok.hwpdkybnxpum.hknxd
 www.xgaok.hwpdkybnxpum.hknxd
+xgfwjc.com
+www.xgfwjc.com
 xianliao.me
 www.xianliao.me
 xiaopian.vip
@@ -26620,6 +26578,8 @@ xpressreg.net
 www.xpressreg.net
 xrie.biz
 www.xrie.biz
+xserver.bruns.de
+www.xserver.bruns.de
 xsus.wiki
 www.xsus.wiki
 xtolz.com
@@ -26842,6 +26802,8 @@ z.sdklygt.com
 www.z.sdklygt.com
 z.wwwhotsalesbooks.ru
 www.z.wwwhotsalesbooks.ru
+z1.ugqrpt.com
+www.z1.ugqrpt.com
 z2wx-ny7s-zwmy.bkendall-gisconsts-com-s-account.workers.dev
 www.z2wx-ny7s-zwmy.bkendall-gisconsts-com-s-account.workers.dev
 z643-xygy-a7id.alma-dragonfilms-mx-com-s-account.workers.dev

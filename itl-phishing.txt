@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-31 23:20                                            ##
+## zuletzt ueberarbeitet am: 2026-11-07 23:35                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-31 23:20                                                           ##
+## edited at: 2026-11-07 23:35                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-phishing.blocktest.it-limitless.de
@@ -25212,6 +25212,8 @@ collectable.com
 www.collectable.com
 collectables.nojosh.com.au
 www.collectables.nojosh.com.au
+collectif-mobilites-hdf.fr
+www.collectif-mobilites-hdf.fr
 collection.no
 www.collection.no
 collection.teakcenter.com
@@ -27744,8 +27746,6 @@ copikew0f47c6c77b3f0bae87fcfd3effc235.dnsabr.com
 www.copikew0f47c6c77b3f0bae87fcfd3effc235.dnsabr.com
 copil.vot.pl
 www.copil.vot.pl
-copilot-cloud-microsoft.com
-www.copilot-cloud-microsoft.com
 copilot-cloud-microsoft.com
 www.copilot-cloud-microsoft.com
 copilotsincare.com
@@ -70634,6 +70634,8 @@ mrtvi.com.br
 www.mrtvi.com.br
 mrvilla.com
 www.mrvilla.com
+ms-programs.de
+www.ms-programs.de
 ms0001-loginmicrosoftonline.mynetav.com
 www.ms0001-loginmicrosoftonline.mynetav.com
 ms3k1ngh0n.ga

@@ -6,7 +6,7 @@
 ## oder besuche unseren Blog auf blog.it-limitless.de                                    ##
 ## oder wirke an den Blocklisten über GitHub mit:                                        ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## zuletzt ueberarbeitet am: 2026-10-31 23:25                                            ##
+## zuletzt ueberarbeitet am: 2026-11-07 23:40                                            ##
 ## Haftung ausgeschlossen!                                                               ##
 ##                                                                                       ##
 ## To import this list, please use the link of ITLurl.de/blocklists/listnamexyz only     ##
@@ -15,7 +15,7 @@
 ## or visit our blog at blog.it-limitless.de                                             ##
 ## or add/remove the domain at the corresponding blocklist at                            ##
 ## https://github.com/IT-Limitless/blocklists                                            ##
-## edited at: 2026-10-31 23:25                                                           ##
+## edited at: 2026-11-07 23:40                                                           ##
 ## No liability taken!                                                                   ##
 ###########################################################################################
 itl-spam.blocktest.it-limitless.de
@@ -44,12 +44,6 @@ www.00fs6df.enence.net
 www.010.de-mx.crsend.com
 01dc23c2.ac
 www.01dc23c2.ac
-klrkjm.com
-www.klrkjm.com
-localhost.com
-www.localhost.com
-lsjt-sy.com
-www.lsjt-sy.com
 01dc978b.ac
 www.01dc978b.ac
 01dc9c33.de
@@ -134,6 +128,8 @@ www.365akademie.us8.list-manage.com
 www.3on-it.de
 4f2nwj.bf05.eu1.hubspotemail.net
 www.4f2nwj.bf05.eu1.hubspotemail.net
+51zfbt.com
+www.51zfbt.com
 5295890.email.netsuite.com
 www.5295890.email.netsuite.com
 59220777.swh.strato-hosting.eu
@@ -964,6 +960,8 @@ bm.d.mailin.fr
 www.bm.d.mailin.fr
 bmo.com
 www.bmo.com
+bmvrc.com
+www.bmvrc.com
 bncc.no
 www.bncc.no
 bnetza.de
@@ -1320,6 +1318,8 @@ cclind.com
 www.cclind.com
 cda-ennepe-ruhr.de
 www.cda-ennepe-ruhr.de
+cdnatation-82.com
+www.cdnatation-82.com
 cdtuotu.com
 www.cdtuotu.com
 cdu-barnim.de
@@ -1844,6 +1844,8 @@ dfw1s10mta1180.xt.local
 www.dfw1s10mta1180.xt.local
 dg-werfen.de
 www.dg-werfen.de
+dgxfjm.com
+www.dgxfjm.com
 dharmakirti.de
 www.dharmakirti.de
 dhg.nl
@@ -3982,6 +3984,8 @@ klotz-ais.com
 www.klotz-ais.com
 klozt-ais.com
 www.klozt-ais.com
+klrkjm.com
+www.klrkjm.com
 klumpp.com
 www.klumpp.com
 kmi-service.de
@@ -4352,6 +4356,8 @@ lsabkd.colderolbow.top
 www.lsabkd.colderolbow.top
 lsh-ag.de
 www.lsh-ag.de
+lsjt-sy.com
+www.lsjt-sy.com
 ltg-transporte.de
 www.ltg-transporte.de
 ltiglobal.com.br
@@ -6946,6 +6952,8 @@ skyrix24.de
 www.skyrix24.de
 skyways-logistik.de
 www.skyways-logistik.de
+slebtech.com
+www.slebtech.com
 smail-ecc-mta1.dts-security.de
 www.smail-ecc-mta1.dts-security.de
 smail.infosec.bg
@@ -7442,6 +7450,8 @@ th-owl.de
 www.th-owl.de
 th3kevmaster74.de
 www.th3kevmaster74.de
+thaibib.com
+www.thaibib.com
 thaimassage-lennep.de
 www.thaimassage-lennep.de
 thankyou.itnewslibrary.com
